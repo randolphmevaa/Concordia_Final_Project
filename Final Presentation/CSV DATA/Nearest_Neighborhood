@@ -1,0 +1,22 @@
+,Neighborhood,1st Nearest Neighborhood,2nd Nearest Neighborhood,3rd Nearest Neighborhood,4th Nearest Neighborhood,5th Nearest Neighborhood,Mean Prices,Price Category,Longitude,Latitude
+0,"Los Angeles, CA","Vernon, CA","Huntington Park, CA","Maywood, CA","Commerce, CA","Bell, CA",199000.0,Low Prices,-118.3963062,34.0696501
+1,"West Hollywood, CA","West Hollywood, CA","Beverly Hills, CA","Culver City, CA","Burbank, CA","Los Angeles, CA",1027500.0,Medium Prices,-118.242766,34.0536909
+2,"Granada Hills, CA","San Fernando, CA","Santa Clarita, CA","Hidden Hills, CA","Calabasas, CA","Burbank, CA",1881666.6666666667,High Prices,-118.3692894,34.0923014
+3,"Wilmington, CA","Carson, CA","Lomita, CA","Long Beach, CA","Rolling Hills, CA","Rolling Hills Estates, CA",1945381.9324324324,High Prices,-118.5174342,34.2661558
+4,"Tujunga, CA","Burbank, CA","La Cañada Flintridge, CA","Glendale, CA","San Fernando, CA","Pasadena, CA",1079500.0,Medium Prices,-118.262509,33.7800164
+5,"Studio City, CA","West Hollywood, CA","Burbank, CA","Beverly Hills, CA","Glendale, CA","Culver City, CA",2400000.0,High Prices,-118.2884105,34.252225
+6,"Sherman Oaks, CA","West Hollywood, CA","Beverly Hills, CA","Burbank, CA","San Fernando, CA","Santa Monica, CA",1025000.0,Medium Prices,-118.3961877,34.1483989
+7,"Woodland Hills, CA","Calabasas, CA","Hidden Hills, CA","Agoura Hills, CA","Malibu, CA","Westlake Village, CA",206000.0,Low Prices,-118.3023,34.2669466
+8,"Canoga Park, CA","Hidden Hills, CA","Calabasas, CA","Agoura Hills, CA","San Fernando, CA","Westlake Village, CA",812000.0,Low Prices,-118.4489865,34.1508718
+9,"Chatsworth, CA","Hidden Hills, CA","Hidden Hills, CA","Calabasas, CA","Calabasas, CA","San Fernando, CA",1500000.0,Medium Prices,-118.6058382,34.1684364
+10,"Pacific Palisades, CA","Santa Monica, CA","Beverly Hills, CA","Culver City, CA","Malibu, CA","Calabasas, CA",550000.0,Low Prices,-118.5978087,34.2011078
+11,"Winnetka, CA","Hidden Hills, CA","Calabasas, CA","San Fernando, CA","Agoura Hills, CA","Santa Clarita, CA",2350000.0,High Prices,-118.6023247,34.2595715
+12,"Tarzana, CA","Calabasas, CA","Hidden Hills, CA","San Fernando, CA","Beverly Hills, CA","Santa Monica, CA",569520.0,Low Prices,-118.5264706,34.0480643
+13,"Northridge, CA","San Fernando, CA","Hidden Hills, CA","Calabasas, CA","Santa Clarita, CA","Burbank, CA",1790000.0,High Prices,-118.5711037,34.2013207
+14,"Sun Valley, CA","Burbank, CA","San Fernando, CA","West Hollywood, CA","Glendale, CA","Beverly Hills, CA",1050000.0,Medium Prices,-118.536567,34.1689295
+15,"Van Nuys, CA","San Fernando, CA","Burbank, CA","West Hollywood, CA","Beverly Hills, CA","Calabasas, CA",721666.6666666666,Low Prices,-118.5369316,34.2345615
+16,"Valley Village, CA","Burbank, CA","West Hollywood, CA","Beverly Hills, CA","Glendale, CA","San Fernando, CA",360000.0,Low Prices,-118.3878945,34.2204227
+17,"North Hollywood, CA","Burbank, CA","West Hollywood, CA","Beverly Hills, CA","Glendale, CA","San Fernando, CA",450000.0,Low Prices,-118.4486675,34.1866193
+18,"Playa Del Rey, CA","El Segundo, CA","Inglewood, CA","Manhattan Beach, CA","Culver City, CA","Santa Monica, CA",326000.0,Low Prices,-118.3965758,34.1637147
+19,"Beverly Hills, CA","West Hollywood, CA","Culver City, CA","Santa Monica, CA","Inglewood, CA","Burbank, CA",8976777.777777778,Very High Prices,-118.3747521,34.1649502
+20,"Sunland, CA","Burbank, CA","La Cañada Flintridge, CA","San Fernando, CA","Glendale, CA","Pasadena, CA",17300000.0,Very High Prices,-118.4388067,33.9541453

@@ -1,0 +1,1937 @@
+,Neighborhood,Jurisdiction,Distance
+0,"Beverly Hills, CA","Vernon, CA",17.23
+1,"Beverly Hills, CA","Industry, CA",40.67
+2,"Beverly Hills, CA","Irwindale, CA",42.76
+3,"Beverly Hills, CA","Commerce, CA",23.31
+4,"Beverly Hills, CA","Lancaster, CA",73.83
+5,"Beverly Hills, CA","Santa Fe Springs, CA",33.05
+6,"Beverly Hills, CA","Signal Hill, CA",36.19
+7,"Beverly Hills, CA","El Segundo, CA",17.06
+8,"Beverly Hills, CA","Lakewood, CA",35.46
+9,"Beverly Hills, CA","Culver City, CA",5.4
+10,"Beverly Hills, CA","West Hollywood, CA",3.54
+11,"Beverly Hills, CA","South El Monte, CA",32.26
+12,"Beverly Hills, CA","Santa Monica, CA",10.37
+13,"Beverly Hills, CA","Beverly Hills, CA",0.0
+14,"Beverly Hills, CA","Malibu, CA",27.27
+15,"Beverly Hills, CA","Cerritos, CA",38.96
+16,"Beverly Hills, CA","Pomona, CA",59.4
+17,"Beverly Hills, CA","Huntington Park, CA",19.54
+18,"Beverly Hills, CA","South Gate, CA",22.63
+19,"Beverly Hills, CA","Gardena, CA",21.02
+20,"Beverly Hills, CA","Long Beach, CA",38.4
+21,"Beverly Hills, CA","Inglewood, CA",13.23
+22,"Beverly Hills, CA","Lynwood, CA",24.06
+23,"Beverly Hills, CA","Hermosa Beach, CA",22.84
+24,"Beverly Hills, CA","Paramount, CA",28.14
+25,"Beverly Hills, CA","Carson, CA",29.58
+26,"Beverly Hills, CA","Arcadia, CA",33.62
+27,"Beverly Hills, CA","Burbank, CA",14.04
+28,"Beverly Hills, CA","Manhattan Beach, CA",19.8
+29,"Beverly Hills, CA","Downey, CA",28.5
+30,"Beverly Hills, CA","Los Angeles, CA",14.25
+31,"Beverly Hills, CA","Redondo Beach, CA",24.92
+32,"Beverly Hills, CA","Torrance, CA",26.5
+33,"Beverly Hills, CA","Artesia, CA",36.75
+34,"Beverly Hills, CA","Compton, CA",24.94
+35,"Beverly Hills, CA","Glendora, CA",49.44
+36,"Beverly Hills, CA","Rosemead, CA",28.4
+37,"Beverly Hills, CA","Pasadena, CA",24.75
+38,"Beverly Hills, CA","San Dimas, CA",54.45
+39,"Beverly Hills, CA","Bellflower, CA",33.12
+40,"Beverly Hills, CA","Monterey Park, CA",24.63
+41,"Beverly Hills, CA","Covina, CA",46.76
+42,"Beverly Hills, CA","Monrovia, CA",37.39
+43,"Beverly Hills, CA","Whittier, CA",35.43
+44,"Beverly Hills, CA","Hawthorne, CA",17.34
+45,"Beverly Hills, CA","Pico Rivera, CA",29.24
+46,"Beverly Hills, CA","Alhambra, CA",24.93
+47,"Beverly Hills, CA","Montebello, CA",26.87
+48,"Beverly Hills, CA","Claremont, CA",62.38
+49,"Beverly Hills, CA","West Covina, CA",42.13
+50,"Beverly Hills, CA","San Gabriel, CA",26.7
+51,"Beverly Hills, CA","Azusa, CA",45.74
+52,"Beverly Hills, CA","South Pasadena, CA",23.39
+53,"Beverly Hills, CA","Hawaiian Gardens, CA",40.02
+54,"Beverly Hills, CA","Lawndale, CA",20.53
+55,"Beverly Hills, CA","Glendale, CA",16.15
+56,"Beverly Hills, CA","El Monte, CA",33.11
+57,"Beverly Hills, CA","Maywood, CA",21.52
+58,"Beverly Hills, CA","Westlake Village, CA",38.68
+59,"Beverly Hills, CA","Diamond Bar, CA",54.18
+60,"Beverly Hills, CA","Duarte, CA",39.35
+61,"Beverly Hills, CA","Agoura Hills, CA",35.1
+62,"Beverly Hills, CA","Lomita, CA",30.41
+63,"Beverly Hills, CA","Norwalk, CA",33.8
+64,"Beverly Hills, CA","San Marino, CA",27.37
+65,"Beverly Hills, CA","Bell Gardens, CA",25.25
+66,"Beverly Hills, CA","Calabasas, CA",24.29
+67,"Beverly Hills, CA","Walnut, CA",68.68
+68,"Beverly Hills, CA","Bell, CA",22.02
+69,"Beverly Hills, CA","San Fernando, CA",24.24
+70,"Beverly Hills, CA","Cudahy, CA",22.97
+71,"Beverly Hills, CA","Palmdale, CA",62.2
+72,"Beverly Hills, CA","La Cañada Flintridge, CA",23.11
+73,"Beverly Hills, CA","Rolling Hills Estates, CA",31.54
+74,"Beverly Hills, CA","Baldwin Park, CA",40.11
+75,"Beverly Hills, CA","Avalon, CA",81.14
+76,"Beverly Hills, CA","Rancho Palos Verdes, CA",35.81
+77,"Beverly Hills, CA","Palos Verdes Estates, CA",31.41
+78,"Beverly Hills, CA","Sierra Madre, CA",33.23
+79,"Beverly Hills, CA","La Puente, CA",41.09
+80,"Beverly Hills, CA","Santa Clarita, CA",38.25
+81,"Beverly Hills, CA","La Mirada, CA",39.93
+82,"Beverly Hills, CA","Bradbury, CA",40.1
+83,"Beverly Hills, CA","Temple City, CA",31.47
+84,"Beverly Hills, CA","La Habra Heights, CA",42.85
+85,"Beverly Hills, CA","La Verne, CA",57.98
+86,"Beverly Hills, CA","Rolling Hills, CA",33.95
+87,"Beverly Hills, CA","Hidden Hills, CA",26.27
+88,"Los Angeles, CA","Westlake Village, CA",52.88
+89,"West Hollywood, CA","Irwindale, CA",40.09
+90,"West Hollywood, CA","Commerce, CA",21.99
+91,"West Hollywood, CA","Lancaster, CA",70.66
+92,"West Hollywood, CA","El Segundo, CA",19.95
+93,"West Hollywood, CA","Lakewood, CA",35.56
+94,"West Hollywood, CA","Santa Monica, CA",13.85
+95,"West Hollywood, CA","Hermosa Beach, CA",25.47
+96,"West Hollywood, CA","Carson, CA",30.89
+97,"West Hollywood, CA","Burbank, CA",10.71
+98,"West Hollywood, CA","Manhattan Beach, CA",22.44
+99,"West Hollywood, CA","Downey, CA",27.83
+100,"West Hollywood, CA","Torrance, CA",28.64
+101,"West Hollywood, CA","Rosemead, CA",26.05
+102,"West Hollywood, CA","San Dimas, CA",51.82
+103,"West Hollywood, CA","Monterey Park, CA",22.52
+104,"West Hollywood, CA","Covina, CA",44.22
+105,"West Hollywood, CA","Hawthorne, CA",19.38
+106,"West Hollywood, CA","Claremont, CA",59.81
+107,"West Hollywood, CA","West Covina, CA",39.72
+108,"West Hollywood, CA","San Gabriel, CA",24.02
+109,"West Hollywood, CA","South Pasadena, CA",20.52
+110,"West Hollywood, CA","Hawaiian Gardens, CA",40.01
+111,"West Hollywood, CA","Glendale, CA",12.72
+112,"West Hollywood, CA","Agoura Hills, CA",37.01
+113,"West Hollywood, CA","Lomita, CA",32.42
+114,"West Hollywood, CA","Norwalk, CA",33.19
+115,"West Hollywood, CA","Bell Gardens, CA",24.36
+116,"West Hollywood, CA","Calabasas, CA",25.96
+117,"West Hollywood, CA","Palmdale, CA",58.9
+118,"West Hollywood, CA","La Puente, CA",39.0
+119,"West Hollywood, CA","Temple City, CA",28.74
+120,"West Hollywood, CA","La Habra Heights, CA",41.29
+121,"West Hollywood, CA","La Verne, CA",55.39
+122,"West Hollywood, CA","Rolling Hills, CA",36.24
+123,"Los Angeles, CA","Santa Fe Springs, CA",19.85
+124,"Los Angeles, CA","Avalon, CA",79.5
+125,"Granada Hills, CA","Commerce, CA",44.29
+126,"Granada Hills, CA","Lancaster, CA",59.37
+127,"Granada Hills, CA","Santa Fe Springs, CA",54.35
+128,"Granada Hills, CA","El Segundo, CA",39.94
+129,"Granada Hills, CA","South El Monte, CA",49.43
+130,"Granada Hills, CA","Santa Monica, CA",27.54
+131,"Granada Hills, CA","Beverly Hills, CA",24.53
+132,"Granada Hills, CA","Huntington Park, CA",42.23
+133,"Granada Hills, CA","South Gate, CA",45.97
+134,"Granada Hills, CA","Inglewood, CA",37.64
+135,"Granada Hills, CA","Lynwood, CA",47.77
+136,"Granada Hills, CA","Hermosa Beach, CA",46.07
+137,"Granada Hills, CA","Torrance, CA",50.54
+138,"Granada Hills, CA","Artesia, CA",59.8
+139,"Granada Hills, CA","Rosemead, CA",45.26
+140,"Granada Hills, CA","Pasadena, CA",36.74
+141,"Granada Hills, CA","Hawthorne, CA",41.64
+142,"Granada Hills, CA","Alhambra, CA",40.74
+143,"Granada Hills, CA","Glendale, CA",28.11
+144,"Granada Hills, CA","Diamond Bar, CA",70.23
+145,"Granada Hills, CA","Agoura Hills, CA",26.35
+146,"Granada Hills, CA","Lomita, CA",54.57
+147,"Granada Hills, CA","Bell Gardens, CA",47.22
+148,"Granada Hills, CA","Calabasas, CA",17.84
+149,"Granada Hills, CA","Palmdale, CA",50.6
+150,"Granada Hills, CA","Palos Verdes Estates, CA",54.31
+151,"Granada Hills, CA","La Mirada, CA",61.49
+152,"Los Angeles, CA","Maywood, CA",9.14
+153,"Wilmington, CA","Lancaster, CA",102.74
+154,"Wilmington, CA","Santa Fe Springs, CA",25.85
+155,"Wilmington, CA","West Hollywood, CA",36.09
+156,"Wilmington, CA","South El Monte, CA",36.2
+157,"Wilmington, CA","Beverly Hills, CA",34.49
+158,"Wilmington, CA","Cerritos, CA",21.43
+159,"Wilmington, CA","Pomona, CA",56.2
+160,"Wilmington, CA","Huntington Park, CA",23.01
+161,"Wilmington, CA","Inglewood, CA",21.3
+162,"Wilmington, CA","Lynwood, CA",17.03
+163,"Wilmington, CA","Hermosa Beach, CA",15.48
+164,"Wilmington, CA","Paramount, CA",15.69
+165,"Wilmington, CA","Arcadia, CA",44.6
+166,"Wilmington, CA","Burbank, CA",45.04
+167,"Wilmington, CA","Manhattan Beach, CA",17.43
+168,"Wilmington, CA","Los Angeles, CA",30.49
+169,"Wilmington, CA","Redondo Beach, CA",13.75
+170,"Wilmington, CA","Torrance, CA",9.52
+171,"Wilmington, CA","Artesia, CA",19.58
+172,"Wilmington, CA","Rosemead, CA",35.81
+173,"Wilmington, CA","Pasadena, CA",42.3
+174,"Wilmington, CA","Monterey Park, CA",32.58
+175,"Wilmington, CA","Covina, CA",48.56
+176,"Wilmington, CA","Hawthorne, CA",17.35
+177,"Wilmington, CA","Alhambra, CA",36.98
+178,"Wilmington, CA","Montebello, CA",29.69
+179,"Wilmington, CA","West Covina, CA",43.83
+180,"Wilmington, CA","San Gabriel, CA",38.21
+181,"Wilmington, CA","Azusa, CA",51.3
+182,"Wilmington, CA","Lawndale, CA",14.69
+183,"Wilmington, CA","Glendale, CA",40.82
+184,"Wilmington, CA","El Monte, CA",38.87
+185,"Wilmington, CA","Westlake Village, CA",64.58
+186,"Wilmington, CA","Diamond Bar, CA",50.06
+187,"Wilmington, CA","Lomita, CA",5.89
+188,"Wilmington, CA","Norwalk, CA",21.81
+189,"Wilmington, CA","San Marino, CA",40.64
+190,"Wilmington, CA","Calabasas, CA",53.69
+191,"Wilmington, CA","Cudahy, CA",21.52
+192,"Wilmington, CA","Palmdale, CA",89.88
+193,"Wilmington, CA","Rolling Hills Estates, CA",8.88
+194,"Wilmington, CA","Baldwin Park, CA",43.89
+195,"Wilmington, CA","Rancho Palos Verdes, CA",10.61
+196,"Wilmington, CA","Palos Verdes Estates, CA",12.9
+197,"Wilmington, CA","La Puente, CA",39.7
+198,"Wilmington, CA","Santa Clarita, CA",72.74
+199,"Wilmington, CA","La Mirada, CA",27.15
+200,"Wilmington, CA","Bradbury, CA",48.87
+201,"Wilmington, CA","Rolling Hills, CA",8.19
+202,"Wilmington, CA","Hidden Hills, CA",56.15
+203,"Los Angeles, CA","Huntington Park, CA",8.39
+204,"Los Angeles, CA","Bellflower, CA",22.3
+205,"Los Angeles, CA","Torrance, CA",25.85
+206,"Los Angeles, CA","Artesia, CA",25.46
+207,"Los Angeles, CA","Monrovia, CA",24.59
+208,"Wilmington, CA","Vernon, CA",25.49
+209,"Wilmington, CA","Industry, CA",38.53
+210,"Wilmington, CA","Irwindale, CA",47.32
+211,"Wilmington, CA","Commerce, CA",26.61
+212,"Wilmington, CA","Signal Hill, CA",9.14
+213,"Wilmington, CA","El Segundo, CA",20.79
+214,"Wilmington, CA","Lakewood, CA",15.54
+215,"Wilmington, CA","Culver City, CA",29.52
+216,"Wilmington, CA","Santa Monica, CA",33.98
+217,"Wilmington, CA","Malibu, CA",48.58
+218,"Wilmington, CA","South Gate, CA",19.35
+219,"Wilmington, CA","Gardena, CA",13.53
+220,"Wilmington, CA","Long Beach, CA",6.67
+221,"Wilmington, CA","Carson, CA",5.89
+222,"Wilmington, CA","Downey, CA",21.67
+223,"Wilmington, CA","Compton, CA",13.2
+224,"Wilmington, CA","Glendora, CA",53.94
+225,"Wilmington, CA","San Dimas, CA",55.56
+226,"Wilmington, CA","Bellflower, CA",17.64
+227,"Wilmington, CA","Monrovia, CA",47.51
+228,"Wilmington, CA","Whittier, CA",30.13
+229,"Wilmington, CA","Pico Rivera, CA",27.28
+230,"Wilmington, CA","Claremont, CA",61.21
+231,"Wilmington, CA","South Pasadena, CA",38.54
+232,"Wilmington, CA","Hawaiian Gardens, CA",18.2
+233,"Wilmington, CA","Maywood, CA",24.06
+234,"Wilmington, CA","Duarte, CA",47.85
+235,"Wilmington, CA","Agoura Hills, CA",61.86
+236,"Wilmington, CA","Bell Gardens, CA",23.47
+237,"Wilmington, CA","Walnut, CA",44.17
+238,"Wilmington, CA","Bell, CA",22.76
+239,"Wilmington, CA","San Fernando, CA",58.42
+240,"Wilmington, CA","La Cañada Flintridge, CA",47.03
+241,"Wilmington, CA","Avalon, CA",49.05
+242,"Wilmington, CA","Sierra Madre, CA",46.64
+243,"Wilmington, CA","Temple City, CA",41.1
+244,"Wilmington, CA","La Habra Heights, CA",35.11
+245,"Wilmington, CA","La Verne, CA",57.92
+246,"Los Angeles, CA","South El Monte, CA",18.06
+247,"Los Angeles, CA","Azusa, CA",32.3
+248,"Los Angeles, CA","La Puente, CA",26.84
+249,"Los Angeles, CA","San Gabriel, CA",13.35
+250,"Los Angeles, CA","Rancho Palos Verdes, CA",35.95
+251,"Los Angeles, CA","South Gate, CA",12.54
+252,"Los Angeles, CA","South Pasadena, CA",10.97
+253,"Los Angeles, CA","Norwalk, CA",21.67
+254,"Los Angeles, CA","Walnut, CA",56.56
+255,"Tujunga, CA","Lancaster, CA",51.5
+256,"Tujunga, CA","South Gate, CA",34.95
+257,"Tujunga, CA","Long Beach, CA",54.47
+258,"Tujunga, CA","Arcadia, CA",26.23
+259,"Tujunga, CA","Redondo Beach, CA",46.15
+260,"Tujunga, CA","Artesia, CA",46.75
+261,"Tujunga, CA","Covina, CA",41.03
+262,"Tujunga, CA","Glendale, CA",12.29
+263,"Tujunga, CA","El Monte, CA",30.39
+264,"Tujunga, CA","Duarte, CA",31.24
+265,"Tujunga, CA","Bell Gardens, CA",33.91
+266,"Tujunga, CA","Cudahy, CA",33.68
+267,"Tujunga, CA","Rancho Palos Verdes, CA",56.54
+268,"Tujunga, CA","La Mirada, CA",46.21
+269,"Studio City, CA","Vernon, CA",22.24
+270,"Studio City, CA","Irwindale, CA",42.77
+271,"Studio City, CA","Santa Fe Springs, CA",37.47
+272,"Studio City, CA","Lakewood, CA",41.95
+273,"Studio City, CA","Pomona, CA",60.23
+274,"Studio City, CA","Burbank, CA",7.45
+275,"Studio City, CA","Downey, CA",33.76
+276,"Studio City, CA","Artesia, CA",42.62
+277,"Studio City, CA","West Covina, CA",43.02
+278,"Studio City, CA","Norwalk, CA",39.11
+279,"Studio City, CA","San Marino, CA",26.9
+280,"Studio City, CA","San Fernando, CA",15.66
+281,"Studio City, CA","La Cañada Flintridge, CA",18.89
+282,"Studio City, CA","Rolling Hills Estates, CA",40.25
+283,"Studio City, CA","Baldwin Park, CA",40.65
+284,"Studio City, CA","Bradbury, CA",39.14
+285,"Studio City, CA","La Habra Heights, CA",46.08
+286,"Studio City, CA","La Verne, CA",58.08
+287,"Sunland, CA","Vernon, CA",29.75
+288,"Sunland, CA","Irwindale, CA",38.24
+289,"Sunland, CA","Commerce, CA",32.31
+290,"Sunland, CA","Lancaster, CA",50.29
+291,"Sunland, CA","Santa Fe Springs, CA",41.45
+292,"Sunland, CA","Signal Hill, CA",52.85
+293,"Sunland, CA","Culver City, CA",28.68
+294,"Sunland, CA","West Hollywood, CA",20.37
+295,"Sunland, CA","South El Monte, CA",33.53
+296,"Sunland, CA","Pomona, CA",55.85
+297,"Sunland, CA","Huntington Park, CA",32.68
+298,"Sunland, CA","South Gate, CA",36.85
+299,"Sunland, CA","Inglewood, CA",34.87
+300,"Sunland, CA","Compton, CA",41.95
+301,"Sunland, CA","Glendora, CA",42.74
+302,"Sunland, CA","Pasadena, CA",19.66
+303,"Sunland, CA","San Dimas, CA",48.94
+304,"Sunland, CA","Monterey Park, CA",28.74
+305,"Sunland, CA","Whittier, CA",41.33
+306,"Sunland, CA","Alhambra, CA",25.18
+307,"Sunland, CA","Claremont, CA",56.83
+308,"Sunland, CA","West Covina, CA",40.05
+309,"Sunland, CA","Azusa, CA",39.37
+310,"Sunland, CA","Hawaiian Gardens, CA",53.09
+311,"Sunland, CA","Lawndale, CA",42.34
+312,"Sunland, CA","Glendale, CA",14.25
+313,"Sunland, CA","El Monte, CA",32.42
+314,"Sunland, CA","Westlake Village, CA",48.25
+315,"Sunland, CA","Duarte, CA",33.08
+316,"Sunland, CA","Agoura Hills, CA",44.62
+317,"Sunland, CA","Norwalk, CA",44.52
+318,"Sunland, CA","San Marino, CA",24.25
+319,"Sunland, CA","Walnut, CA",77.87
+320,"Sunland, CA","San Fernando, CA",12.6
+321,"Sunland, CA","La Cañada Flintridge, CA",11.97
+322,"Sunland, CA","Baldwin Park, CA",37.31
+323,"Sunland, CA","Avalon, CA",102.85
+324,"Sunland, CA","Rancho Palos Verdes, CA",58.01
+325,"Sunland, CA","Sierra Madre, CA",25.75
+326,"Sunland, CA","La Puente, CA",41.69
+327,"Sunland, CA","Santa Clarita, CA",26.06
+328,"Sunland, CA","Bradbury, CA",33.27
+329,"Sunland, CA","La Habra Heights, CA",47.02
+330,"Sunland, CA","Hidden Hills, CA",34.63
+331,"Los Angeles, CA","West Covina, CA",28.04
+332,"Studio City, CA","Signal Hill, CA",43.6
+333,"Studio City, CA","Culver City, CA",14.15
+334,"Studio City, CA","West Hollywood, CA",6.71
+335,"Studio City, CA","Cerritos, CA",44.64
+336,"Studio City, CA","Huntington Park, CA",25.04
+337,"Studio City, CA","Gardena, CA",29.25
+338,"Studio City, CA","Hermosa Beach, CA",31.59
+339,"Studio City, CA","Paramount, CA",34.64
+340,"Studio City, CA","Los Angeles, CA",17.62
+341,"Studio City, CA","Redondo Beach, CA",33.68
+342,"Studio City, CA","San Dimas, CA",54.46
+343,"Studio City, CA","Covina, CA",47.16
+344,"Studio City, CA","Alhambra, CA",25.53
+345,"Studio City, CA","Azusa, CA",45.18
+346,"Studio City, CA","Glendale, CA",13.65
+347,"Studio City, CA","El Monte, CA",34.07
+348,"Studio City, CA","Maywood, CA",26.47
+349,"Studio City, CA","Diamond Bar, CA",55.57
+350,"Studio City, CA","Hidden Hills, CA",24.14
+351,"Sherman Oaks, CA","Industry, CA",47.45
+352,"Sherman Oaks, CA","Irwindale, CA",47.63
+353,"Sherman Oaks, CA","Signal Hill, CA",46.38
+354,"Sherman Oaks, CA","El Segundo, CA",26.18
+355,"Sherman Oaks, CA","Lakewood, CA",45.3
+356,"Sherman Oaks, CA","Culver City, CA",15.22
+357,"Sherman Oaks, CA","West Hollywood, CA",9.81
+358,"Sherman Oaks, CA","Huntington Park, CA",28.74
+359,"Sherman Oaks, CA","Inglewood, CA",23.38
+360,"Sherman Oaks, CA","Paramount, CA",37.96
+361,"Sherman Oaks, CA","Carson, CA",39.83
+362,"Sherman Oaks, CA","Los Angeles, CA",21.85
+363,"Sherman Oaks, CA","Torrance, CA",36.43
+364,"Sherman Oaks, CA","Glendora, CA",53.74
+365,"Sherman Oaks, CA","Bellflower, CA",42.75
+366,"Sherman Oaks, CA","Monterey Park, CA",31.4
+367,"Sherman Oaks, CA","Covina, CA",52.01
+368,"Sherman Oaks, CA","Whittier, CA",43.41
+369,"Sherman Oaks, CA","Hawthorne, CA",27.42
+370,"Sherman Oaks, CA","Pico Rivera, CA",37.43
+371,"Sherman Oaks, CA","Claremont, CA",67.39
+372,"Sherman Oaks, CA","San Gabriel, CA",31.86
+373,"Sherman Oaks, CA","Lawndale, CA",30.48
+374,"Sherman Oaks, CA","Glendale, CA",18.51
+375,"Sherman Oaks, CA","El Monte, CA",38.87
+376,"Sherman Oaks, CA","Westlake Village, CA",32.87
+377,"Sherman Oaks, CA","Agoura Hills, CA",29.15
+378,"Sherman Oaks, CA","Norwalk, CA",42.98
+379,"Sherman Oaks, CA","Bell Gardens, CA",34.11
+380,"Sherman Oaks, CA","Walnut, CA",78.01
+381,"Sherman Oaks, CA","San Fernando, CA",14.95
+382,"Sherman Oaks, CA","La Cañada Flintridge, CA",23.5
+383,"Sherman Oaks, CA","Avalon, CA",90.62
+384,"Sherman Oaks, CA","Palos Verdes Estates, CA",40.67
+385,"Sherman Oaks, CA","Sierra Madre, CA",36.47
+386,"Sherman Oaks, CA","Santa Clarita, CA",28.12
+387,"Sherman Oaks, CA","Rolling Hills, CA",43.68
+388,"Sherman Oaks, CA","Hidden Hills, CA",19.27
+389,"Woodland Hills, CA","Santa Fe Springs, CA",55.18
+390,"Woodland Hills, CA","Signal Hill, CA",57.12
+391,"Woodland Hills, CA","Lakewood, CA",57.27
+392,"Woodland Hills, CA","Culver City, CA",25.3
+393,"Woodland Hills, CA","Pomona, CA",79.63
+394,"Woodland Hills, CA","Gardena, CA",41.02
+395,"Woodland Hills, CA","Inglewood, CA",33.15
+396,"Woodland Hills, CA","Arcadia, CA",52.18
+397,"Woodland Hills, CA","Burbank, CA",25.8
+398,"Woodland Hills, CA","Downey, CA",50.7
+399,"Woodland Hills, CA","Torrance, CA",44.33
+400,"Woodland Hills, CA","Artesia, CA",58.83
+401,"Woodland Hills, CA","Glendora, CA",68.23
+402,"Woodland Hills, CA","Pasadena, CA",42.51
+403,"Woodland Hills, CA","West Covina, CA",62.39
+404,"Woodland Hills, CA","Maywood, CA",43.68
+405,"Woodland Hills, CA","Westlake Village, CA",18.6
+406,"Woodland Hills, CA","Diamond Bar, CA",74.88
+407,"Woodland Hills, CA","Lomita, CA",48.4
+408,"Woodland Hills, CA","Calabasas, CA",4.4
+409,"Woodland Hills, CA","Walnut, CA",90.79
+410,"Woodland Hills, CA","Palmdale, CA",64.03
+411,"Woodland Hills, CA","La Cañada Flintridge, CA",37.45
+412,"Woodland Hills, CA","Palos Verdes Estates, CA",46.37
+413,"Woodland Hills, CA","Sierra Madre, CA",50.88
+414,"Woodland Hills, CA","La Mirada, CA",62.11
+415,"Woodland Hills, CA","Hidden Hills, CA",4.81
+416,"Los Angeles, CA","Pasadena, CA",13.82
+417,"Los Angeles, CA","San Marino, CA",14.71
+418,"Los Angeles, CA","Downey, CA",16.37
+419,"Woodland Hills, CA","Vernon, CA",39.37
+420,"Woodland Hills, CA","Irwindale, CA",62.19
+421,"Woodland Hills, CA","Lancaster, CA",72.94
+422,"Woodland Hills, CA","El Segundo, CA",32.99
+423,"Woodland Hills, CA","West Hollywood, CA",23.36
+424,"Woodland Hills, CA","Beverly Hills, CA",22.2
+425,"Woodland Hills, CA","Cerritos, CA",61.08
+426,"Woodland Hills, CA","South Gate, CA",44.73
+427,"Woodland Hills, CA","Hermosa Beach, CA",38.96
+428,"Woodland Hills, CA","Paramount, CA",50.04
+429,"Woodland Hills, CA","Manhattan Beach, CA",36.4
+430,"Woodland Hills, CA","Los Angeles, CA",35.78
+431,"Woodland Hills, CA","Compton, CA",46.33
+432,"Woodland Hills, CA","Rosemead, CA",48.97
+433,"Woodland Hills, CA","Bellflower, CA",55.15
+434,"Woodland Hills, CA","Monterey Park, CA",45.71
+435,"Woodland Hills, CA","Covina, CA",66.58
+436,"Woodland Hills, CA","Monrovia, CA",55.66
+437,"Woodland Hills, CA","Hawthorne, CA",36.51
+438,"Woodland Hills, CA","Claremont, CA",81.94
+439,"Woodland Hills, CA","San Gabriel, CA",46.41
+440,"Woodland Hills, CA","Azusa, CA",64.55
+441,"Woodland Hills, CA","Lawndale, CA",38.87
+442,"Woodland Hills, CA","Glendale, CA",33.03
+443,"Woodland Hills, CA","Duarte, CA",57.93
+444,"Woodland Hills, CA","Norwalk, CA",55.98
+445,"Woodland Hills, CA","San Marino, CA",46.32
+446,"Woodland Hills, CA","Bell, CA",44.21
+447,"Woodland Hills, CA","San Fernando, CA",20.17
+448,"Woodland Hills, CA","Cudahy, CA",45.16
+449,"Woodland Hills, CA","Rolling Hills Estates, CA",48.1
+450,"Woodland Hills, CA","Baldwin Park, CA",60.05
+451,"Woodland Hills, CA","Avalon, CA",95.41
+452,"Woodland Hills, CA","La Puente, CA",62.1
+453,"Woodland Hills, CA","Santa Clarita, CA",25.49
+454,"Woodland Hills, CA","La Habra Heights, CA",64.65
+455,"Los Angeles, CA","Hawaiian Gardens, CA",29.47
+456,"Los Angeles, CA","Sierra Madre, CA",21.21
+457,"Los Angeles, CA","Diamond Bar, CA",39.94
+458,"Los Angeles, CA","La Verne, CA",44.05
+459,"Los Angeles, CA","Long Beach, CA",32.0
+460,"Los Angeles, CA","Whittier, CA",21.6
+461,"Granada Hills, CA","Vernon, CA",39.4
+462,"Granada Hills, CA","Signal Hill, CA",60.55
+463,"Granada Hills, CA","Lakewood, CA",59.14
+464,"Granada Hills, CA","Culver City, CA",29.43
+465,"Granada Hills, CA","West Hollywood, CA",23.65
+466,"Granada Hills, CA","Cerritos, CA",61.79
+467,"Granada Hills, CA","Gardena, CA",45.52
+468,"Granada Hills, CA","Long Beach, CA",62.91
+469,"Granada Hills, CA","Paramount, CA",51.82
+470,"Granada Hills, CA","Burbank, CA",19.96
+471,"Granada Hills, CA","Downey, CA",50.88
+472,"Granada Hills, CA","Redondo Beach, CA",48.25
+473,"Granada Hills, CA","Compton, CA",49.21
+474,"Granada Hills, CA","Monrovia, CA",49.22
+475,"Granada Hills, CA","Claremont, CA",75.76
+476,"Granada Hills, CA","San Gabriel, CA",41.95
+477,"Granada Hills, CA","Azusa, CA",58.16
+478,"Granada Hills, CA","Lawndale, CA",44.63
+479,"Granada Hills, CA","Maywood, CA",43.59
+480,"Granada Hills, CA","Bell, CA",44.46
+481,"Granada Hills, CA","La Cañada Flintridge, CA",30.05
+482,"Granada Hills, CA","Rolling Hills Estates, CA",55.18
+483,"Granada Hills, CA","Baldwin Park, CA",54.97
+484,"Granada Hills, CA","Avalon, CA",104.23
+485,"Granada Hills, CA","Bradbury, CA",51.98
+486,"Canoga Park, CA","Industry, CA",62.2
+487,"Canoga Park, CA","Irwindale, CA",61.95
+488,"Canoga Park, CA","Commerce, CA",46.24
+489,"Canoga Park, CA","Lancaster, CA",69.59
+490,"Canoga Park, CA","Santa Fe Springs, CA",56.24
+491,"Canoga Park, CA","Signal Hill, CA",59.24
+492,"Canoga Park, CA","El Segundo, CA",35.77
+493,"Canoga Park, CA","Lakewood, CA",59.02
+494,"Canoga Park, CA","West Hollywood, CA",24.26
+495,"Canoga Park, CA","Santa Monica, CA",22.45
+496,"Canoga Park, CA","Cerritos, CA",62.56
+497,"Canoga Park, CA","Huntington Park, CA",43.03
+498,"Canoga Park, CA","Gardena, CA",43.3
+499,"Canoga Park, CA","Hermosa Beach, CA",41.82
+500,"Canoga Park, CA","Carson, CA",51.96
+501,"Canoga Park, CA","Arcadia, CA",51.81
+502,"Canoga Park, CA","Downey, CA",51.98
+503,"Canoga Park, CA","Los Angeles, CA",36.56
+504,"Canoga Park, CA","Artesia, CA",60.36
+505,"Canoga Park, CA","Compton, CA",48.26
+506,"Canoga Park, CA","Rosemead, CA",49.22
+507,"Canoga Park, CA","Pasadena, CA",42.13
+508,"Canoga Park, CA","Bellflower, CA",56.74
+509,"Canoga Park, CA","Covina, CA",66.43
+510,"Canoga Park, CA","Whittier, CA",58.15
+511,"Canoga Park, CA","Hawthorne, CA",38.9
+512,"Canoga Park, CA","Montebello, CA",49.24
+513,"Canoga Park, CA","Claremont, CA",81.63
+514,"Canoga Park, CA","West Covina, CA",62.4
+515,"Canoga Park, CA","San Gabriel, CA",46.43
+516,"Canoga Park, CA","Azusa, CA",64.12
+517,"Canoga Park, CA","Hawaiian Gardens, CA",63.6
+518,"Canoga Park, CA","El Monte, CA",53.49
+519,"Canoga Park, CA","Walnut, CA",92.28
+520,"Canoga Park, CA","San Fernando, CA",17.43
+521,"Canoga Park, CA","Cudahy, CA",46.5
+522,"Canoga Park, CA","Palmdale, CA",60.94
+523,"Canoga Park, CA","La Cañada Flintridge, CA",36.54
+524,"Canoga Park, CA","Rancho Palos Verdes, CA",54.53
+525,"Canoga Park, CA","Temple City, CA",50.75
+526,"Canoga Park, CA","La Habra Heights, CA",65.35
+527,"Canoga Park, CA","Rolling Hills, CA",53.44
+528,"Canoga Park, CA","Hidden Hills, CA",6.89
+529,"Los Angeles, CA","Claremont, CA",48.41
+530,"Sherman Oaks, CA","Lancaster, CA",67.26
+531,"Sherman Oaks, CA","Santa Fe Springs, CA",41.63
+532,"Sherman Oaks, CA","Beverly Hills, CA",10.25
+533,"Sherman Oaks, CA","Malibu, CA",25.58
+534,"Sherman Oaks, CA","Cerritos, CA",48.38
+535,"Sherman Oaks, CA","Pomona, CA",65.07
+536,"Sherman Oaks, CA","South Gate, CA",32.24
+537,"Sherman Oaks, CA","Gardena, CA",31.25
+538,"Sherman Oaks, CA","Burbank, CA",11.83
+539,"Sherman Oaks, CA","Manhattan Beach, CA",29.25
+540,"Sherman Oaks, CA","Downey, CA",37.62
+541,"Sherman Oaks, CA","Redondo Beach, CA",34.4
+542,"Sherman Oaks, CA","Compton, CA",35.07
+543,"Sherman Oaks, CA","Pasadena, CA",28.02
+544,"Sherman Oaks, CA","Montebello, CA",34.47
+545,"Sherman Oaks, CA","Azusa, CA",50.04
+546,"Sherman Oaks, CA","Hawaiian Gardens, CA",49.78
+547,"Sherman Oaks, CA","Diamond Bar, CA",60.36
+548,"Sherman Oaks, CA","San Marino, CA",31.76
+549,"Sherman Oaks, CA","Bell, CA",31.1
+550,"Sherman Oaks, CA","Rolling Hills Estates, CA",41.23
+551,"Sherman Oaks, CA","Rancho Palos Verdes, CA",45.34
+552,"Sherman Oaks, CA","La Puente, CA",47.66
+553,"Sherman Oaks, CA","Temple City, CA",36.32
+554,"Sherman Oaks, CA","La Habra Heights, CA",50.58
+555,"Sherman Oaks, CA","La Verne, CA",62.94
+556,"Sherman Oaks, CA","Vernon, CA",26.08
+557,"Sherman Oaks, CA","Commerce, CA",31.58
+558,"Sherman Oaks, CA","South El Monte, CA",38.64
+559,"Sherman Oaks, CA","Santa Monica, CA",15.12
+560,"Sherman Oaks, CA","Long Beach, CA",48.65
+561,"Sherman Oaks, CA","Lynwood, CA",33.88
+562,"Sherman Oaks, CA","Hermosa Beach, CA",32.24
+563,"Sherman Oaks, CA","Arcadia, CA",37.66
+564,"Sherman Oaks, CA","Artesia, CA",46.27
+565,"Sherman Oaks, CA","Rosemead, CA",34.5
+566,"Sherman Oaks, CA","San Dimas, CA",59.32
+567,"Sherman Oaks, CA","Monrovia, CA",41.18
+568,"Sherman Oaks, CA","Alhambra, CA",30.32
+569,"Sherman Oaks, CA","West Covina, CA",47.84
+570,"Sherman Oaks, CA","South Pasadena, CA",28.03
+571,"Sherman Oaks, CA","Maywood, CA",30.38
+572,"Sherman Oaks, CA","Duarte, CA",43.43
+573,"Sherman Oaks, CA","Lomita, CA",40.41
+574,"Sherman Oaks, CA","Calabasas, CA",17.97
+575,"Sherman Oaks, CA","Cudahy, CA",32.23
+576,"Sherman Oaks, CA","Palmdale, CA",56.55
+577,"Sherman Oaks, CA","Baldwin Park, CA",45.49
+578,"Sherman Oaks, CA","La Mirada, CA",48.7
+579,"Sherman Oaks, CA","Bradbury, CA",44.0
+580,"Chatsworth, CA","Vernon, CA",44.64
+581,"Chatsworth, CA","Industry, CA",64.98
+582,"Chatsworth, CA","Irwindale, CA",63.76
+583,"Chatsworth, CA","Commerce, CA",50.0
+584,"Chatsworth, CA","Lancaster, CA",64.81
+585,"Chatsworth, CA","Santa Fe Springs, CA",60.08
+586,"Chatsworth, CA","Signal Hill, CA",64.47
+587,"Chatsworth, CA","El Segundo, CA",41.79
+588,"Chatsworth, CA","Lakewood, CA",63.78
+589,"Chatsworth, CA","Culver City, CA",32.59
+590,"Chatsworth, CA","West Hollywood, CA",28.38
+591,"Chatsworth, CA","South El Monte, CA",56.09
+592,"Chatsworth, CA","Santa Monica, CA",28.59
+593,"Chatsworth, CA","Beverly Hills, CA",28.38
+594,"Chatsworth, CA","Malibu, CA",26.16
+595,"Chatsworth, CA","Cerritos, CA",66.95
+596,"Chatsworth, CA","Pomona, CA",81.49
+597,"Chatsworth, CA","Huntington Park, CA",47.31
+598,"Chatsworth, CA","South Gate, CA",50.78
+599,"Chatsworth, CA","Gardena, CA",48.78
+600,"Chatsworth, CA","Long Beach, CA",66.4
+601,"Chatsworth, CA","Inglewood, CA",40.8
+602,"Chatsworth, CA","Lynwood, CA",52.36
+603,"Chatsworth, CA","Hermosa Beach, CA",47.89
+604,"Chatsworth, CA","Paramount, CA",56.45
+605,"Chatsworth, CA","Carson, CA",57.46
+606,"Chatsworth, CA","Arcadia, CA",53.49
+607,"Chatsworth, CA","Burbank, CA",26.86
+608,"Chatsworth, CA","Manhattan Beach, CA",45.15
+609,"Chatsworth, CA","Downey, CA",56.18
+610,"Chatsworth, CA","Los Angeles, CA",40.23
+611,"Chatsworth, CA","Redondo Beach, CA",50.06
+612,"Chatsworth, CA","Torrance, CA",52.93
+613,"Chatsworth, CA","Artesia, CA",64.84
+614,"Chatsworth, CA","Compton, CA",53.3
+615,"Chatsworth, CA","Glendora, CA",69.16
+616,"Chatsworth, CA","Rosemead, CA",51.91
+617,"Chatsworth, CA","Pasadena, CA",43.91
+618,"Chatsworth, CA","San Dimas, CA",75.13
+619,"Chatsworth, CA","Bellflower, CA",61.3
+620,"Chatsworth, CA","Monterey Park, CA",49.25
+621,"Chatsworth, CA","Covina, CA",68.34
+622,"Chatsworth, CA","Monrovia, CA",56.63
+623,"Chatsworth, CA","Whittier, CA",61.63
+624,"Chatsworth, CA","Hawthorne, CA",44.52
+625,"Chatsworth, CA","Pico Rivera, CA",55.78
+626,"Chatsworth, CA","Alhambra, CA",47.48
+627,"Chatsworth, CA","Montebello, CA",52.64
+628,"Chatsworth, CA","Claremont, CA",83.18
+629,"Chatsworth, CA","West Covina, CA",64.62
+630,"Chatsworth, CA","San Gabriel, CA",48.8
+631,"Chatsworth, CA","Azusa, CA",65.58
+632,"Chatsworth, CA","South Pasadena, CA",44.86
+633,"Chatsworth, CA","Hawaiian Gardens, CA",68.3
+634,"Chatsworth, CA","Lawndale, CA",47.21
+635,"Chatsworth, CA","Glendale, CA",34.92
+636,"Chatsworth, CA","El Monte, CA",55.92
+637,"Chatsworth, CA","Maywood, CA",48.93
+638,"Chatsworth, CA","Westlake Village, CA",22.6
+639,"Chatsworth, CA","Diamond Bar, CA",77.28
+640,"Chatsworth, CA","Duarte, CA",59.01
+641,"Chatsworth, CA","Agoura Hills, CA",19.49
+642,"Chatsworth, CA","Lomita, CA",57.0
+643,"Chatsworth, CA","Norwalk, CA",61.54
+644,"Chatsworth, CA","San Marino, CA",48.18
+645,"Chatsworth, CA","Bell Gardens, CA",52.65
+646,"Chatsworth, CA","Calabasas, CA",13.34
+647,"Chatsworth, CA","Walnut, CA",96.58
+648,"Chatsworth, CA","Bell, CA",49.67
+649,"Chatsworth, CA","San Fernando, CA",15.39
+650,"Chatsworth, CA","Cudahy, CA",50.8
+651,"Chatsworth, CA","Palmdale, CA",56.96
+652,"Chatsworth, CA","La Cañada Flintridge, CA",37.53
+653,"Chatsworth, CA","Rolling Hills Estates, CA",57.08
+654,"Chatsworth, CA","Baldwin Park, CA",62.08
+655,"Chatsworth, CA","Avalon, CA",105.12
+656,"Chatsworth, CA","Rancho Palos Verdes, CA",60.72
+657,"Chatsworth, CA","Palos Verdes Estates, CA",55.68
+658,"Chatsworth, CA","Sierra Madre, CA",51.69
+659,"Chatsworth, CA","La Puente, CA",65.06
+660,"Chatsworth, CA","Santa Clarita, CA",15.68
+661,"Chatsworth, CA","La Mirada, CA",67.18
+662,"Chatsworth, CA","Bradbury, CA",59.4
+663,"Chatsworth, CA","Temple City, CA",52.84
+664,"Chatsworth, CA","La Habra Heights, CA",68.62
+665,"Chatsworth, CA","La Verne, CA",78.77
+666,"Chatsworth, CA","Rolling Hills, CA",59.54
+667,"Chatsworth, CA","Hidden Hills, CA",11.78
+668,"Los Angeles, CA","Bell, CA",10.19
+669,"Los Angeles, CA","La Mirada, CA",26.97
+670,"Los Angeles, CA","Temple City, CA",18.09
+671,"Los Angeles, CA","Malibu, CA",41.2
+672,"Los Angeles, CA","Beverly Hills, CA",14.25
+673,"Los Angeles, CA","Baldwin Park, CA",26.18
+674,"Los Angeles, CA","Manhattan Beach, CA",22.85
+675,"Los Angeles, CA","Alhambra, CA",11.52
+676,"Los Angeles, CA","Irwindale, CA",29.03
+677,"Los Angeles, CA","Compton, CA",17.72
+678,"Los Angeles, CA","Pomona, CA",45.24
+679,"Los Angeles, CA","Paramount, CA",18.44
+680,"Los Angeles, CA","Burbank, CA",16.15
+681,"Los Angeles, CA","Montebello, CA",12.76
+682,"Los Angeles, CA","Los Angeles, CA",0.0
+683,"Los Angeles, CA","Monterey Park, CA",10.41
+684,"Los Angeles, CA","Bradbury, CA",27.1
+685,"Pacific Palisades, CA","Vernon, CA",28.13
+686,"Pacific Palisades, CA","Industry, CA",52.37
+687,"Pacific Palisades, CA","Irwindale, CA",54.94
+688,"Pacific Palisades, CA","Commerce, CA",34.46
+689,"Pacific Palisades, CA","Lancaster, CA",80.65
+690,"Pacific Palisades, CA","Santa Fe Springs, CA",43.6
+691,"Pacific Palisades, CA","Signal Hill, CA",42.71
+692,"Pacific Palisades, CA","El Segundo, CA",17.8
+693,"Pacific Palisades, CA","Lakewood, CA",43.69
+694,"Pacific Palisades, CA","Culver City, CA",12.35
+695,"Pacific Palisades, CA","West Hollywood, CA",15.29
+696,"Pacific Palisades, CA","South El Monte, CA",44.2
+697,"Pacific Palisades, CA","Santa Monica, CA",4.54
+698,"Pacific Palisades, CA","Beverly Hills, CA",12.23
+699,"Pacific Palisades, CA","Malibu, CA",15.08
+700,"Pacific Palisades, CA","Cerritos, CA",48.13
+701,"Pacific Palisades, CA","Pomona, CA",71.38
+702,"Pacific Palisades, CA","Huntington Park, CA",29.88
+703,"Pacific Palisades, CA","South Gate, CA",32.07
+704,"Pacific Palisades, CA","Gardena, CA",26.47
+705,"Pacific Palisades, CA","Long Beach, CA",43.79
+706,"Pacific Palisades, CA","Inglewood, CA",18.96
+707,"Pacific Palisades, CA","Lynwood, CA",32.87
+708,"Pacific Palisades, CA","Hermosa Beach, CA",23.72
+709,"Pacific Palisades, CA","Paramount, CA",36.74
+710,"Pacific Palisades, CA","Carson, CA",34.91
+711,"Pacific Palisades, CA","Arcadia, CA",45.84
+712,"Pacific Palisades, CA","Burbank, CA",23.7
+713,"Pacific Palisades, CA","Manhattan Beach, CA",21.2
+714,"Pacific Palisades, CA","Downey, CA",38.52
+715,"Pacific Palisades, CA","Los Angeles, CA",26.15
+716,"Pacific Palisades, CA","Redondo Beach, CA",25.85
+717,"Pacific Palisades, CA","Torrance, CA",29.17
+718,"Pacific Palisades, CA","Artesia, CA",45.77
+719,"Pacific Palisades, CA","Compton, CA",32.47
+720,"Pacific Palisades, CA","Glendora, CA",61.66
+721,"Pacific Palisades, CA","Rosemead, CA",40.45
+722,"Pacific Palisades, CA","Pasadena, CA",36.88
+723,"Pacific Palisades, CA","San Dimas, CA",66.61
+724,"Pacific Palisades, CA","Bellflower, CA",42.03
+725,"Pacific Palisades, CA","Monterey Park, CA",36.55
+726,"Pacific Palisades, CA","Covina, CA",58.87
+727,"Pacific Palisades, CA","Monrovia, CA",49.61
+728,"Pacific Palisades, CA","Whittier, CA",46.48
+729,"Pacific Palisades, CA","Hawthorne, CA",21.82
+730,"Pacific Palisades, CA","Pico Rivera, CA",40.26
+731,"Pacific Palisades, CA","Alhambra, CA",37.13
+732,"Pacific Palisades, CA","Montebello, CA",38.36
+733,"Pacific Palisades, CA","Claremont, CA",74.5
+734,"Pacific Palisades, CA","West Covina, CA",54.17
+735,"Pacific Palisades, CA","San Gabriel, CA",38.91
+736,"Pacific Palisades, CA","Azusa, CA",57.96
+737,"Pacific Palisades, CA","South Pasadena, CA",35.62
+738,"Pacific Palisades, CA","Hawaiian Gardens, CA",48.33
+739,"Pacific Palisades, CA","Lawndale, CA",23.88
+740,"Pacific Palisades, CA","Glendale, CA",27.91
+741,"Pacific Palisades, CA","El Monte, CA",45.2
+742,"Pacific Palisades, CA","Maywood, CA",32.17
+743,"Pacific Palisades, CA","Westlake Village, CA",27.96
+744,"Pacific Palisades, CA","Diamond Bar, CA",66.02
+745,"Pacific Palisades, CA","Duarte, CA",51.58
+746,"Pacific Palisades, CA","Agoura Hills, CA",24.67
+747,"Pacific Palisades, CA","Lomita, CA",33.22
+748,"Pacific Palisades, CA","Norwalk, CA",43.54
+749,"Pacific Palisades, CA","San Marino, CA",39.6
+750,"Pacific Palisades, CA","Bell Gardens, CA",35.75
+751,"Pacific Palisades, CA","Calabasas, CA",15.25
+752,"Pacific Palisades, CA","Walnut, CA",77.55
+753,"Pacific Palisades, CA","Bell, CA",32.37
+754,"Pacific Palisades, CA","San Fernando, CA",27.58
+755,"Pacific Palisades, CA","Cudahy, CA",33.03
+756,"Pacific Palisades, CA","Palmdale, CA",70.02
+757,"Pacific Palisades, CA","La Cañada Flintridge, CA",34.42
+758,"Pacific Palisades, CA","Rolling Hills Estates, CA",32.85
+759,"Pacific Palisades, CA","Baldwin Park, CA",52.24
+760,"Pacific Palisades, CA","Avalon, CA",80.62
+761,"Pacific Palisades, CA","Rancho Palos Verdes, CA",36.29
+762,"Pacific Palisades, CA","Palos Verdes Estates, CA",31.2
+763,"Pacific Palisades, CA","Sierra Madre, CA",45.4
+764,"Pacific Palisades, CA","La Puente, CA",52.88
+765,"Pacific Palisades, CA","Santa Clarita, CA",38.24
+766,"Pacific Palisades, CA","La Mirada, CA",50.11
+767,"Pacific Palisades, CA","Bradbury, CA",52.32
+768,"Pacific Palisades, CA","Temple City, CA",43.68
+769,"Pacific Palisades, CA","La Habra Heights, CA",53.99
+770,"Pacific Palisades, CA","La Verne, CA",70.12
+771,"Pacific Palisades, CA","Rolling Hills, CA",35.28
+772,"Pacific Palisades, CA","Hidden Hills, CA",17.68
+773,"Sunland, CA","Industry, CA",41.97
+774,"Sunland, CA","El Segundo, CA",40.28
+775,"Sunland, CA","Lakewood, CA",49.36
+776,"Sunland, CA","Santa Monica, CA",32.55
+777,"Sunland, CA","Beverly Hills, CA",23.58
+778,"Sunland, CA","Malibu, CA",43.94
+779,"Sunland, CA","Cerritos, CA",50.27
+780,"Sunland, CA","Gardena, CA",41.21
+781,"Sunland, CA","Long Beach, CA",56.3
+782,"Sunland, CA","Lynwood, CA",39.14
+783,"Sunland, CA","Hermosa Beach, CA",45.6
+784,"Sunland, CA","Paramount, CA",42.67
+785,"Sunland, CA","Carson, CA",48.56
+786,"Sunland, CA","Arcadia, CA",28.15
+787,"Sunland, CA","Burbank, CA",9.73
+788,"Sunland, CA","Manhattan Beach, CA",42.6
+789,"Sunland, CA","Downey, CA",39.65
+790,"Sunland, CA","Los Angeles, CA",24.34
+791,"Sunland, CA","Redondo Beach, CA",47.52
+792,"Sunland, CA","Torrance, CA",48.07
+793,"Sunland, CA","Artesia, CA",48.77
+794,"Sunland, CA","Rosemead, CA",29.67
+795,"Sunland, CA","Bellflower, CA",46.03
+796,"Sunland, CA","Covina, CA",42.91
+797,"Sunland, CA","Monrovia, CA",30.65
+798,"Sunland, CA","Hawthorne, CA",38.94
+799,"Sunland, CA","Pico Rivera, CA",36.8
+800,"Sunland, CA","Montebello, CA",32.95
+801,"Sunland, CA","San Gabriel, CA",25.81
+802,"Sunland, CA","South Pasadena, CA",22.22
+803,"Sunland, CA","Maywood, CA",32.97
+804,"Sunland, CA","Diamond Bar, CA",52.46
+805,"Sunland, CA","Lomita, CA",51.54
+806,"Sunland, CA","Bell Gardens, CA",35.91
+807,"Sunland, CA","Calabasas, CA",34.25
+808,"Sunland, CA","Bell, CA",34.19
+809,"Sunland, CA","Cudahy, CA",35.62
+810,"Sunland, CA","Palmdale, CA",38.66
+811,"Sunland, CA","Rolling Hills Estates, CA",53.53
+812,"Sunland, CA","Palos Verdes Estates, CA",54.12
+813,"Sunland, CA","La Mirada, CA",48.28
+814,"Sunland, CA","Temple City, CA",28.59
+815,"Sunland, CA","La Verne, CA",52.52
+816,"Sunland, CA","Rolling Hills, CA",55.78
+817,"Winnetka, CA","Vernon, CA",38.47
+818,"Winnetka, CA","Industry, CA",59.89
+819,"Winnetka, CA","Irwindale, CA",59.54
+820,"Winnetka, CA","Commerce, CA",44.1
+821,"Winnetka, CA","Lancaster, CA",68.11
+822,"Winnetka, CA","Santa Fe Springs, CA",54.13
+823,"Winnetka, CA","Signal Hill, CA",57.64
+824,"Winnetka, CA","El Segundo, CA",34.7
+825,"Winnetka, CA","Lakewood, CA",57.21
+826,"Winnetka, CA","Culver City, CA",25.69
+827,"Winnetka, CA","West Hollywood, CA",22.18
+828,"Winnetka, CA","South El Monte, CA",51.04
+829,"Winnetka, CA","Santa Monica, CA",21.52
+830,"Winnetka, CA","Beverly Hills, CA",21.75
+831,"Winnetka, CA","Malibu, CA",21.41
+832,"Winnetka, CA","Cerritos, CA",60.62
+833,"Winnetka, CA","Pomona, CA",77.14
+834,"Winnetka, CA","Huntington Park, CA",41.04
+835,"Winnetka, CA","South Gate, CA",44.34
+836,"Winnetka, CA","Gardena, CA",41.83
+837,"Winnetka, CA","Long Beach, CA",59.46
+838,"Winnetka, CA","Inglewood, CA",33.85
+839,"Winnetka, CA","Lynwood, CA",45.81
+840,"Winnetka, CA","Hermosa Beach, CA",40.81
+841,"Winnetka, CA","Paramount, CA",49.89
+842,"Winnetka, CA","Carson, CA",50.51
+843,"Winnetka, CA","Arcadia, CA",49.38
+844,"Winnetka, CA","Burbank, CA",22.66
+845,"Winnetka, CA","Manhattan Beach, CA",38.07
+846,"Winnetka, CA","Downey, CA",49.98
+847,"Winnetka, CA","Los Angeles, CA",34.39
+848,"Winnetka, CA","Redondo Beach, CA",42.98
+849,"Winnetka, CA","Torrance, CA",45.86
+850,"Winnetka, CA","Artesia, CA",58.45
+851,"Winnetka, CA","Compton, CA",46.56
+852,"Winnetka, CA","Glendora, CA",65.33
+853,"Winnetka, CA","Rosemead, CA",46.89
+854,"Winnetka, CA","Pasadena, CA",39.7
+855,"Winnetka, CA","San Dimas, CA",71.12
+856,"Winnetka, CA","Bellflower, CA",54.85
+857,"Winnetka, CA","Monterey Park, CA",43.9
+858,"Winnetka, CA","Covina, CA",64.02
+859,"Winnetka, CA","Monrovia, CA",52.73
+860,"Winnetka, CA","Whittier, CA",55.96
+861,"Winnetka, CA","Hawthorne, CA",37.52
+862,"Winnetka, CA","Pico Rivera, CA",49.97
+863,"Winnetka, CA","Alhambra, CA",42.6
+864,"Winnetka, CA","Montebello, CA",47.03
+865,"Winnetka, CA","Claremont, CA",79.2
+866,"Winnetka, CA","West Covina, CA",60.02
+867,"Winnetka, CA","San Gabriel, CA",44.06
+868,"Winnetka, CA","Azusa, CA",61.69
+869,"Winnetka, CA","South Pasadena, CA",40.16
+870,"Winnetka, CA","Hawaiian Gardens, CA",61.77
+871,"Winnetka, CA","Lawndale, CA",40.16
+872,"Winnetka, CA","Glendale, CA",30.35
+873,"Winnetka, CA","El Monte, CA",51.13
+874,"Winnetka, CA","Maywood, CA",42.79
+875,"Winnetka, CA","Westlake Village, CA",22.48
+876,"Winnetka, CA","Diamond Bar, CA",72.62
+877,"Winnetka, CA","Duarte, CA",55.06
+878,"Winnetka, CA","Agoura Hills, CA",18.86
+879,"Winnetka, CA","Lomita, CA",49.93
+880,"Winnetka, CA","Norwalk, CA",55.32
+881,"Winnetka, CA","San Marino, CA",43.73
+882,"Winnetka, CA","Bell Gardens, CA",46.54
+883,"Winnetka, CA","Calabasas, CA",9.21
+884,"Winnetka, CA","Walnut, CA",90.32
+885,"Winnetka, CA","Bell, CA",43.45
+886,"Winnetka, CA","San Fernando, CA",15.39
+887,"Winnetka, CA","Cudahy, CA",44.52
+888,"Winnetka, CA","Palmdale, CA",59.18
+889,"Winnetka, CA","La Cañada Flintridge, CA",34.08
+890,"Winnetka, CA","Rolling Hills Estates, CA",50.0
+891,"Winnetka, CA","Baldwin Park, CA",57.59
+892,"Winnetka, CA","Avalon, CA",98.15
+893,"Winnetka, CA","Rancho Palos Verdes, CA",53.65
+894,"Winnetka, CA","Palos Verdes Estates, CA",48.62
+895,"Winnetka, CA","Sierra Madre, CA",47.88
+896,"Winnetka, CA","La Puente, CA",60.07
+897,"Winnetka, CA","Santa Clarita, CA",21.33
+898,"Winnetka, CA","La Mirada, CA",61.18
+899,"Winnetka, CA","Bradbury, CA",55.55
+900,"Winnetka, CA","Temple City, CA",48.36
+901,"Winnetka, CA","La Habra Heights, CA",63.13
+902,"Winnetka, CA","La Verne, CA",74.76
+903,"Winnetka, CA","Rolling Hills, CA",52.45
+904,"Winnetka, CA","Hidden Hills, CA",8.99
+905,"Los Angeles, CA","Santa Monica, CA",23.21
+906,"Los Angeles, CA","Agoura Hills, CA",49.28
+907,"Los Angeles, CA","Hawthorne, CA",17.87
+908,"Los Angeles, CA","Lawndale, CA",21.0
+909,"Los Angeles, CA","Glendora, CA",35.94
+910,"Los Angeles, CA","San Fernando, CA",31.35
+911,"Los Angeles, CA","Cudahy, CA",11.56
+912,"Chatsworth, CA","Vernon, CA",44.64
+913,"Chatsworth, CA","Industry, CA",64.98
+914,"Chatsworth, CA","Irwindale, CA",63.76
+915,"Chatsworth, CA","Commerce, CA",50.0
+916,"Chatsworth, CA","Lancaster, CA",64.81
+917,"Chatsworth, CA","Santa Fe Springs, CA",60.08
+918,"Chatsworth, CA","Signal Hill, CA",64.47
+919,"Chatsworth, CA","El Segundo, CA",41.79
+920,"Chatsworth, CA","Lakewood, CA",63.78
+921,"Chatsworth, CA","Culver City, CA",32.59
+922,"Chatsworth, CA","West Hollywood, CA",28.38
+923,"Chatsworth, CA","South El Monte, CA",56.09
+924,"Chatsworth, CA","Santa Monica, CA",28.59
+925,"Chatsworth, CA","Beverly Hills, CA",28.38
+926,"Chatsworth, CA","Malibu, CA",26.16
+927,"Chatsworth, CA","Cerritos, CA",66.95
+928,"Chatsworth, CA","Pomona, CA",81.49
+929,"Chatsworth, CA","Huntington Park, CA",47.31
+930,"Chatsworth, CA","South Gate, CA",50.78
+931,"Chatsworth, CA","Gardena, CA",48.78
+932,"Chatsworth, CA","Long Beach, CA",66.4
+933,"Chatsworth, CA","Inglewood, CA",40.8
+934,"Chatsworth, CA","Lynwood, CA",52.36
+935,"Chatsworth, CA","Hermosa Beach, CA",47.89
+936,"Chatsworth, CA","Paramount, CA",56.45
+937,"Chatsworth, CA","Carson, CA",57.46
+938,"Chatsworth, CA","Arcadia, CA",53.49
+939,"Chatsworth, CA","Burbank, CA",26.86
+940,"Chatsworth, CA","Manhattan Beach, CA",45.15
+941,"Chatsworth, CA","Downey, CA",56.18
+942,"Chatsworth, CA","Los Angeles, CA",40.23
+943,"Chatsworth, CA","Redondo Beach, CA",50.06
+944,"Chatsworth, CA","Torrance, CA",52.93
+945,"Chatsworth, CA","Artesia, CA",64.84
+946,"Chatsworth, CA","Compton, CA",53.3
+947,"Chatsworth, CA","Glendora, CA",69.16
+948,"Chatsworth, CA","Rosemead, CA",51.91
+949,"Chatsworth, CA","Pasadena, CA",43.91
+950,"Chatsworth, CA","San Dimas, CA",75.13
+951,"Chatsworth, CA","Bellflower, CA",61.3
+952,"Chatsworth, CA","Monterey Park, CA",49.25
+953,"Chatsworth, CA","Covina, CA",68.34
+954,"Chatsworth, CA","Monrovia, CA",56.63
+955,"Chatsworth, CA","Whittier, CA",61.63
+956,"Chatsworth, CA","Hawthorne, CA",44.52
+957,"Chatsworth, CA","Pico Rivera, CA",55.78
+958,"Chatsworth, CA","Alhambra, CA",47.48
+959,"Chatsworth, CA","Montebello, CA",52.64
+960,"Chatsworth, CA","Claremont, CA",83.18
+961,"Chatsworth, CA","West Covina, CA",64.62
+962,"Chatsworth, CA","San Gabriel, CA",48.8
+963,"Chatsworth, CA","Azusa, CA",65.58
+964,"Chatsworth, CA","South Pasadena, CA",44.86
+965,"Chatsworth, CA","Hawaiian Gardens, CA",68.3
+966,"Chatsworth, CA","Lawndale, CA",47.21
+967,"Chatsworth, CA","Glendale, CA",34.92
+968,"Chatsworth, CA","El Monte, CA",55.92
+969,"Chatsworth, CA","Maywood, CA",48.93
+970,"Chatsworth, CA","Westlake Village, CA",22.6
+971,"Chatsworth, CA","Diamond Bar, CA",77.28
+972,"Chatsworth, CA","Duarte, CA",59.01
+973,"Chatsworth, CA","Agoura Hills, CA",19.49
+974,"Chatsworth, CA","Lomita, CA",57.0
+975,"Chatsworth, CA","Norwalk, CA",61.54
+976,"Chatsworth, CA","San Marino, CA",48.18
+977,"Chatsworth, CA","Bell Gardens, CA",52.65
+978,"Chatsworth, CA","Calabasas, CA",13.34
+979,"Chatsworth, CA","Walnut, CA",96.58
+980,"Chatsworth, CA","Bell, CA",49.67
+981,"Chatsworth, CA","San Fernando, CA",15.39
+982,"Chatsworth, CA","Cudahy, CA",50.8
+983,"Chatsworth, CA","Palmdale, CA",56.96
+984,"Chatsworth, CA","La Cañada Flintridge, CA",37.53
+985,"Chatsworth, CA","Rolling Hills Estates, CA",57.08
+986,"Chatsworth, CA","Baldwin Park, CA",62.08
+987,"Chatsworth, CA","Avalon, CA",105.12
+988,"Chatsworth, CA","Rancho Palos Verdes, CA",60.72
+989,"Chatsworth, CA","Palos Verdes Estates, CA",55.68
+990,"Chatsworth, CA","Sierra Madre, CA",51.69
+991,"Chatsworth, CA","La Puente, CA",65.06
+992,"Chatsworth, CA","Santa Clarita, CA",15.68
+993,"Chatsworth, CA","La Mirada, CA",67.18
+994,"Chatsworth, CA","Bradbury, CA",59.4
+995,"Chatsworth, CA","Temple City, CA",52.84
+996,"Chatsworth, CA","La Habra Heights, CA",68.62
+997,"Chatsworth, CA","La Verne, CA",78.77
+998,"Chatsworth, CA","Rolling Hills, CA",59.54
+999,"Chatsworth, CA","Hidden Hills, CA",11.78
+1000,"Canoga Park, CA","Vernon, CA",40.52
+1001,"Canoga Park, CA","Culver City, CA",27.28
+1002,"Canoga Park, CA","South El Monte, CA",53.37
+1003,"Canoga Park, CA","Beverly Hills, CA",23.61
+1004,"Canoga Park, CA","Malibu, CA",20.24
+1005,"Canoga Park, CA","Pomona, CA",79.54
+1006,"Canoga Park, CA","South Gate, CA",46.24
+1007,"Canoga Park, CA","Long Beach, CA",60.92
+1008,"Canoga Park, CA","Inglewood, CA",35.35
+1009,"Canoga Park, CA","Lynwood, CA",47.65
+1010,"Canoga Park, CA","Paramount, CA",51.72
+1011,"Canoga Park, CA","Burbank, CA",25.11
+1012,"Canoga Park, CA","Manhattan Beach, CA",39.16
+1013,"Canoga Park, CA","Redondo Beach, CA",43.98
+1014,"Canoga Park, CA","Torrance, CA",47.03
+1015,"Canoga Park, CA","Glendora, CA",67.77
+1016,"Canoga Park, CA","San Dimas, CA",73.55
+1017,"Canoga Park, CA","Monterey Park, CA",46.18
+1018,"Canoga Park, CA","Monrovia, CA",55.17
+1019,"Canoga Park, CA","Pico Rivera, CA",52.12
+1020,"Canoga Park, CA","Alhambra, CA",44.96
+1021,"Canoga Park, CA","South Pasadena, CA",42.54
+1022,"Canoga Park, CA","Lawndale, CA",41.43
+1023,"Canoga Park, CA","Glendale, CA",32.75
+1024,"Canoga Park, CA","Maywood, CA",44.84
+1025,"Canoga Park, CA","Westlake Village, CA",20.12
+1026,"Canoga Park, CA","Diamond Bar, CA",74.99
+1027,"Canoga Park, CA","Duarte, CA",57.5
+1028,"Canoga Park, CA","Agoura Hills, CA",16.54
+1029,"Canoga Park, CA","Lomita, CA",51.1
+1030,"Canoga Park, CA","Norwalk, CA",57.32
+1031,"Canoga Park, CA","San Marino, CA",46.13
+1032,"Canoga Park, CA","Bell Gardens, CA",48.59
+1033,"Canoga Park, CA","Calabasas, CA",7.58
+1034,"Canoga Park, CA","Bell, CA",45.47
+1035,"Canoga Park, CA","Rolling Hills Estates, CA",50.99
+1036,"Canoga Park, CA","Baldwin Park, CA",59.98
+1037,"Canoga Park, CA","Avalon, CA",98.72
+1038,"Canoga Park, CA","Palos Verdes Estates, CA",49.44
+1039,"Canoga Park, CA","Sierra Madre, CA",50.32
+1040,"Canoga Park, CA","La Puente, CA",62.39
+1041,"Canoga Park, CA","Santa Clarita, CA",21.79
+1042,"Canoga Park, CA","La Mirada, CA",63.26
+1043,"Canoga Park, CA","Bradbury, CA",57.99
+1044,"Canoga Park, CA","La Verne, CA",77.18
+1045,"Los Angeles, CA","Culver City, CA",14.62
+1046,"Los Angeles, CA","San Dimas, CA",40.59
+1047,"Los Angeles, CA","Santa Clarita, CA",46.61
+1048,"Tarzana, CA","Industry, CA",55.73
+1049,"Tarzana, CA","Irwindale, CA",55.86
+1050,"Tarzana, CA","Lancaster, CA",69.34
+1051,"Tarzana, CA","Santa Fe Springs, CA",49.57
+1052,"Tarzana, CA","Signal Hill, CA",52.84
+1053,"Tarzana, CA","Culver City, CA",20.89
+1054,"Tarzana, CA","Cerritos, CA",55.9
+1055,"Tarzana, CA","Huntington Park, CA",36.36
+1056,"Tarzana, CA","Gardena, CA",37.05
+1057,"Tarzana, CA","Inglewood, CA",29.07
+1058,"Tarzana, CA","Hermosa Beach, CA",36.27
+1059,"Tarzana, CA","Paramount, CA",45.12
+1060,"Tarzana, CA","Carson, CA",45.73
+1061,"Tarzana, CA","Burbank, CA",19.44
+1062,"Tarzana, CA","Los Angeles, CA",29.93
+1063,"Tarzana, CA","Redondo Beach, CA",38.45
+1064,"Tarzana, CA","Torrance, CA",41.21
+1065,"Tarzana, CA","Artesia, CA",53.72
+1066,"Tarzana, CA","Compton, CA",41.76
+1067,"Tarzana, CA","Rosemead, CA",42.8
+1068,"Tarzana, CA","Pasadena, CA",36.15
+1069,"Tarzana, CA","San Dimas, CA",67.53
+1070,"Tarzana, CA","Bellflower, CA",50.11
+1071,"Tarzana, CA","Covina, CA",60.27
+1072,"Tarzana, CA","Monrovia, CA",49.29
+1073,"Tarzana, CA","Whittier, CA",51.53
+1074,"Tarzana, CA","Hawthorne, CA",32.77
+1075,"Tarzana, CA","Montebello, CA",42.64
+1076,"Tarzana, CA","San Gabriel, CA",40.15
+1077,"Tarzana, CA","South Pasadena, CA",36.31
+1078,"Tarzana, CA","Diamond Bar, CA",68.67
+1079,"Tarzana, CA","Duarte, CA",51.57
+1080,"Tarzana, CA","Lomita, CA",45.28
+1081,"Tarzana, CA","Norwalk, CA",50.65
+1082,"Tarzana, CA","San Marino, CA",40.0
+1083,"Tarzana, CA","Bell Gardens, CA",41.92
+1084,"Tarzana, CA","Bell, CA",38.79
+1085,"Tarzana, CA","Cudahy, CA",39.83
+1086,"Tarzana, CA","Palmdale, CA",59.7
+1087,"Tarzana, CA","La Cañada Flintridge, CA",31.1
+1088,"Tarzana, CA","Rolling Hills Estates, CA",45.46
+1089,"Tarzana, CA","La Puente, CA",55.96
+1090,"Tarzana, CA","La Mirada, CA",56.59
+1091,"Tarzana, CA","Bradbury, CA",52.11
+1092,"Tarzana, CA","Temple City, CA",44.58
+1093,"Tarzana, CA","La Verne, CA",71.16
+1094,"Tarzana, CA","Hidden Hills, CA",11.17
+1095,"Los Angeles, CA","La Habra Heights, CA",28.87
+1096,"Los Angeles, CA","Inglewood, CA",14.87
+1097,"Los Angeles, CA","Industry, CA",26.42
+1098,"Los Angeles, CA","Glendale, CA",10.38
+1099,"Northridge, CA","Vernon, CA",38.25
+1100,"Northridge, CA","Industry, CA",58.36
+1101,"Northridge, CA","Irwindale, CA",57.24
+1102,"Northridge, CA","Commerce, CA",43.49
+1103,"Northridge, CA","Lancaster, CA",63.27
+1104,"Northridge, CA","Santa Fe Springs, CA",53.58
+1105,"Northridge, CA","Signal Hill, CA",58.63
+1106,"Northridge, CA","El Segundo, CA",37.03
+1107,"Northridge, CA","Lakewood, CA",57.63
+1108,"Northridge, CA","Culver City, CA",27.03
+1109,"Northridge, CA","West Hollywood, CA",22.09
+1110,"Northridge, CA","South El Monte, CA",49.47
+1111,"Northridge, CA","Santa Monica, CA",24.28
+1112,"Northridge, CA","Beverly Hills, CA",22.44
+1113,"Northridge, CA","Malibu, CA",26.2
+1114,"Northridge, CA","Cerritos, CA",60.61
+1115,"Northridge, CA","Pomona, CA",74.95
+1116,"Northridge, CA","Huntington Park, CA",40.98
+1117,"Northridge, CA","South Gate, CA",44.54
+1118,"Northridge, CA","Gardena, CA",43.24
+1119,"Northridge, CA","Long Beach, CA",60.77
+1120,"Northridge, CA","Inglewood, CA",35.28
+1121,"Northridge, CA","Lynwood, CA",46.21
+1122,"Northridge, CA","Hermosa Beach, CA",43.17
+1123,"Northridge, CA","Paramount, CA",50.29
+1124,"Northridge, CA","Carson, CA",51.89
+1125,"Northridge, CA","Arcadia, CA",46.99
+1126,"Northridge, CA","Burbank, CA",20.28
+1127,"Northridge, CA","Manhattan Beach, CA",40.31
+1128,"Northridge, CA","Downey, CA",49.79
+1129,"Northridge, CA","Los Angeles, CA",33.72
+1130,"Northridge, CA","Redondo Beach, CA",45.36
+1131,"Northridge, CA","Torrance, CA",47.88
+1132,"Northridge, CA","Artesia, CA",58.54
+1133,"Northridge, CA","Compton, CA",47.36
+1134,"Northridge, CA","Glendora, CA",62.74
+1135,"Northridge, CA","Rosemead, CA",45.29
+1136,"Northridge, CA","Pasadena, CA",37.37
+1137,"Northridge, CA","San Dimas, CA",68.67
+1138,"Northridge, CA","Bellflower, CA",55.05
+1139,"Northridge, CA","Monterey Park, CA",42.64
+1140,"Northridge, CA","Covina, CA",61.8
+1141,"Northridge, CA","Monrovia, CA",50.18
+1142,"Northridge, CA","Whittier, CA",55.05
+1143,"Northridge, CA","Hawthorne, CA",39.17
+1144,"Northridge, CA","Pico Rivera, CA",49.24
+1145,"Northridge, CA","Alhambra, CA",40.86
+1146,"Northridge, CA","Montebello, CA",46.06
+1147,"Northridge, CA","Claremont, CA",76.73
+1148,"Northridge, CA","West Covina, CA",58.04
+1149,"Northridge, CA","San Gabriel, CA",42.19
+1150,"Northridge, CA","Azusa, CA",59.14
+1151,"Northridge, CA","South Pasadena, CA",38.25
+1152,"Northridge, CA","Hawaiian Gardens, CA",62.1
+1153,"Northridge, CA","Lawndale, CA",42.04
+1154,"Northridge, CA","Glendale, CA",28.32
+1155,"Northridge, CA","El Monte, CA",49.31
+1156,"Northridge, CA","Maywood, CA",42.51
+1157,"Northridge, CA","Westlake Village, CA",26.65
+1158,"Northridge, CA","Diamond Bar, CA",70.69
+1159,"Northridge, CA","Duarte, CA",52.55
+1160,"Northridge, CA","Agoura Hills, CA",23.14
+1161,"Northridge, CA","Lomita, CA",51.94
+1162,"Northridge, CA","Norwalk, CA",55.15
+1163,"Northridge, CA","San Marino, CA",41.61
+1164,"Northridge, CA","Bell Gardens, CA",46.21
+1165,"Northridge, CA","Calabasas, CA",14.04
+1166,"Northridge, CA","Walnut, CA",90.18
+1167,"Northridge, CA","Bell, CA",43.3
+1168,"Northridge, CA","San Fernando, CA",10.71
+1169,"Northridge, CA","Cudahy, CA",44.46
+1170,"Northridge, CA","Palmdale, CA",54.34
+1171,"Northridge, CA","La Cañada Flintridge, CA",31.17
+1172,"Northridge, CA","Rolling Hills Estates, CA",52.34
+1173,"Northridge, CA","Baldwin Park, CA",55.51
+1174,"Northridge, CA","Avalon, CA",101.1
+1175,"Northridge, CA","Rancho Palos Verdes, CA",56.19
+1176,"Northridge, CA","Palos Verdes Estates, CA",51.28
+1177,"Northridge, CA","Sierra Madre, CA",45.25
+1178,"Northridge, CA","La Puente, CA",58.44
+1179,"Northridge, CA","Santa Clarita, CA",17.48
+1180,"Northridge, CA","La Mirada, CA",60.69
+1181,"Northridge, CA","Bradbury, CA",52.97
+1182,"Northridge, CA","Temple City, CA",46.26
+1183,"Northridge, CA","La Habra Heights, CA",62.01
+1184,"Northridge, CA","La Verne, CA",72.3
+1185,"Northridge, CA","Rolling Hills, CA",54.8
+1186,"Northridge, CA","Hidden Hills, CA",13.6
+1187,"Los Angeles, CA","Calabasas, CA",38.31
+1188,"Los Angeles, CA","Rolling Hills, CA",33.39
+1189,"Los Angeles, CA","Signal Hill, CA",28.51
+1190,"Los Angeles, CA","Palmdale, CA",59.57
+1191,"Los Angeles, CA","Duarte, CA",26.24
+1192,"Sun Valley, CA","Vernon, CA",28.05
+1193,"Sun Valley, CA","Industry, CA",45.41
+1194,"Sun Valley, CA","Irwindale, CA",43.61
+1195,"Sun Valley, CA","Commerce, CA",32.25
+1196,"Sun Valley, CA","Lancaster, CA",57.9
+1197,"Sun Valley, CA","Santa Fe Springs, CA",42.18
+1198,"Sun Valley, CA","Signal Hill, CA",50.45
+1199,"Sun Valley, CA","El Segundo, CA",33.83
+1200,"Sun Valley, CA","Lakewood, CA",48.12
+1201,"Sun Valley, CA","Culver City, CA",22.18
+1202,"Sun Valley, CA","West Hollywood, CA",14.35
+1203,"Sun Valley, CA","South El Monte, CA",36.56
+1204,"Sun Valley, CA","Santa Monica, CA",24.29
+1205,"Sun Valley, CA","Beverly Hills, CA",16.78
+1206,"Sun Valley, CA","Malibu, CA",34.54
+1207,"Sun Valley, CA","Cerritos, CA",50.14
+1208,"Sun Valley, CA","Pomona, CA",61.36
+1209,"Sun Valley, CA","Huntington Park, CA",31.0
+1210,"Sun Valley, CA","South Gate, CA",35.0
+1211,"Sun Valley, CA","Gardena, CA",36.83
+1212,"Sun Valley, CA","Long Beach, CA",53.36
+1213,"Sun Valley, CA","Inglewood, CA",29.55
+1214,"Sun Valley, CA","Lynwood, CA",37.04
+1215,"Sun Valley, CA","Hermosa Beach, CA",39.61
+1216,"Sun Valley, CA","Paramount, CA",40.95
+1217,"Sun Valley, CA","Carson, CA",44.95
+1218,"Sun Valley, CA","Arcadia, CA",33.33
+1219,"Sun Valley, CA","Burbank, CA",7.15
+1220,"Sun Valley, CA","Manhattan Beach, CA",36.57
+1221,"Sun Valley, CA","Downey, CA",39.2
+1222,"Sun Valley, CA","Los Angeles, CA",22.85
+1223,"Sun Valley, CA","Redondo Beach, CA",41.68
+1224,"Sun Valley, CA","Torrance, CA",42.98
+1225,"Sun Valley, CA","Artesia, CA",48.31
+1226,"Sun Valley, CA","Compton, CA",39.12
+1227,"Sun Valley, CA","Glendora, CA",48.98
+1228,"Sun Valley, CA","Rosemead, CA",32.41
+1229,"Sun Valley, CA","Pasadena, CA",23.81
+1230,"Sun Valley, CA","San Dimas, CA",54.95
+1231,"Sun Valley, CA","Bellflower, CA",45.11
+1232,"Sun Valley, CA","Monterey Park, CA",30.28
+1233,"Sun Valley, CA","Covina, CA",48.21
+1234,"Sun Valley, CA","Monrovia, CA",36.44
+1235,"Sun Valley, CA","Whittier, CA",43.02
+1236,"Sun Valley, CA","Hawthorne, CA",33.73
+1237,"Sun Valley, CA","Pico Rivera, CA",37.62
+1238,"Sun Valley, CA","Alhambra, CA",27.87
+1239,"Sun Valley, CA","Montebello, CA",34.09
+1240,"Sun Valley, CA","Claremont, CA",63.0
+1241,"Sun Valley, CA","West Covina, CA",44.63
+1242,"Sun Valley, CA","San Gabriel, CA",29.03
+1243,"Sun Valley, CA","Azusa, CA",45.4
+1244,"Sun Valley, CA","South Pasadena, CA",25.09
+1245,"Sun Valley, CA","Hawaiian Gardens, CA",52.29
+1246,"Sun Valley, CA","Lawndale, CA",37.04
+1247,"Sun Valley, CA","Glendale, CA",15.25
+1248,"Sun Valley, CA","El Monte, CA",36.12
+1249,"Sun Valley, CA","Maywood, CA",31.99
+1250,"Sun Valley, CA","Westlake Village, CA",39.36
+1251,"Sun Valley, CA","Diamond Bar, CA",57.28
+1252,"Sun Valley, CA","Duarte, CA",38.83
+1253,"Sun Valley, CA","Agoura Hills, CA",35.68
+1254,"Sun Valley, CA","Lomita, CA",46.77
+1255,"Sun Valley, CA","Norwalk, CA",44.45
+1256,"Sun Valley, CA","San Marino, CA",28.19
+1257,"Sun Valley, CA","Bell Gardens, CA",35.45
+1258,"Sun Valley, CA","Calabasas, CA",25.03
+1259,"Sun Valley, CA","Walnut, CA",79.08
+1260,"Sun Valley, CA","Bell, CA",33.01
+1261,"Sun Valley, CA","San Fernando, CA",8.51
+1262,"Sun Valley, CA","Cudahy, CA",34.34
+1263,"Sun Valley, CA","Palmdale, CA",47.01
+1264,"Sun Valley, CA","La Cañada Flintridge, CA",17.38
+1265,"Sun Valley, CA","Rolling Hills Estates, CA",48.18
+1266,"Sun Valley, CA","Baldwin Park, CA",42.04
+1267,"Sun Valley, CA","Avalon, CA",97.81
+1268,"Sun Valley, CA","Rancho Palos Verdes, CA",52.52
+1269,"Sun Valley, CA","Palos Verdes Estates, CA",48.19
+1270,"Sun Valley, CA","Sierra Madre, CA",31.5
+1271,"Sun Valley, CA","La Puente, CA",45.38
+1272,"Sun Valley, CA","Santa Clarita, CA",23.76
+1273,"Sun Valley, CA","La Mirada, CA",49.28
+1274,"Sun Valley, CA","Bradbury, CA",39.22
+1275,"Sun Valley, CA","Temple City, CA",32.83
+1276,"Sun Valley, CA","La Habra Heights, CA",49.58
+1277,"Sun Valley, CA","La Verne, CA",58.58
+1278,"Sun Valley, CA","Rolling Hills, CA",50.56
+1279,"Sun Valley, CA","Hidden Hills, CA",25.61
+1280,"Los Angeles, CA","Cerritos, CA",27.32
+1281,"Los Angeles, CA","Lomita, CA",28.69
+1282,"Van Nuys, CA","Vernon, CA",28.66
+1283,"Van Nuys, CA","Industry, CA",48.79
+1284,"Van Nuys, CA","Irwindale, CA",48.16
+1285,"Van Nuys, CA","Commerce, CA",33.8
+1286,"Van Nuys, CA","Lancaster, CA",63.67
+1287,"Van Nuys, CA","Santa Fe Springs, CA",43.88
+1288,"Van Nuys, CA","Signal Hill, CA",49.7
+1289,"Van Nuys, CA","El Segundo, CA",30.13
+1290,"Van Nuys, CA","Lakewood, CA",48.29
+1291,"Van Nuys, CA","Culver City, CA",19.02
+1292,"Van Nuys, CA","West Hollywood, CA",12.78
+1293,"Van Nuys, CA","South El Monte, CA",39.92
+1294,"Van Nuys, CA","Santa Monica, CA",18.99
+1295,"Van Nuys, CA","Beverly Hills, CA",13.87
+1296,"Van Nuys, CA","Malibu, CA",27.81
+1297,"Van Nuys, CA","Cerritos, CA",51.06
+1298,"Van Nuys, CA","Pomona, CA",65.79
+1299,"Van Nuys, CA","Huntington Park, CA",31.45
+1300,"Van Nuys, CA","South Gate, CA",35.13
+1301,"Van Nuys, CA","Gardena, CA",34.87
+1302,"Van Nuys, CA","Long Beach, CA",52.14
+1303,"Van Nuys, CA","Inglewood, CA",27.09
+1304,"Van Nuys, CA","Lynwood, CA",36.91
+1305,"Van Nuys, CA","Hermosa Beach, CA",36.17
+1306,"Van Nuys, CA","Paramount, CA",40.96
+1307,"Van Nuys, CA","Carson, CA",43.39
+1308,"Van Nuys, CA","Arcadia, CA",38.0
+1309,"Van Nuys, CA","Burbank, CA",11.31
+1310,"Van Nuys, CA","Manhattan Beach, CA",33.17
+1311,"Van Nuys, CA","Downey, CA",40.19
+1312,"Van Nuys, CA","Los Angeles, CA",24.04
+1313,"Van Nuys, CA","Redondo Beach, CA",38.32
+1314,"Van Nuys, CA","Torrance, CA",40.26
+1315,"Van Nuys, CA","Artesia, CA",49.03
+1316,"Van Nuys, CA","Compton, CA",38.35
+1317,"Van Nuys, CA","Glendora, CA",53.96
+1318,"Van Nuys, CA","Rosemead, CA",35.74
+1319,"Van Nuys, CA","Pasadena, CA",28.32
+1320,"Van Nuys, CA","San Dimas, CA",59.74
+1321,"Van Nuys, CA","Bellflower, CA",45.59
+1322,"Van Nuys, CA","Monterey Park, CA",32.97
+1323,"Van Nuys, CA","Covina, CA",52.66
+1324,"Van Nuys, CA","Monrovia, CA",41.36
+1325,"Van Nuys, CA","Whittier, CA",45.35
+1326,"Van Nuys, CA","Hawthorne, CA",31.18
+1327,"Van Nuys, CA","Pico Rivera, CA",39.53
+1328,"Van Nuys, CA","Alhambra, CA",31.37
+1329,"Van Nuys, CA","Montebello, CA",36.35
+1330,"Van Nuys, CA","Claremont, CA",67.82
+1331,"Van Nuys, CA","West Covina, CA",48.72
+1332,"Van Nuys, CA","San Gabriel, CA",32.78
+1333,"Van Nuys, CA","Azusa, CA",50.31
+1334,"Van Nuys, CA","South Pasadena, CA",28.86
+1335,"Van Nuys, CA","Hawaiian Gardens, CA",52.69
+1336,"Van Nuys, CA","Lawndale, CA",34.29
+1337,"Van Nuys, CA","Glendale, CA",19.0
+1338,"Van Nuys, CA","El Monte, CA",39.88
+1339,"Van Nuys, CA","Maywood, CA",32.9
+1340,"Van Nuys, CA","Westlake Village, CA",33.2
+1341,"Van Nuys, CA","Diamond Bar, CA",61.34
+1342,"Van Nuys, CA","Duarte, CA",43.69
+1343,"Van Nuys, CA","Agoura Hills, CA",29.48
+1344,"Van Nuys, CA","Lomita, CA",44.22
+1345,"Van Nuys, CA","Norwalk, CA",45.54
+1346,"Van Nuys, CA","San Marino, CA",32.37
+1347,"Van Nuys, CA","Bell Gardens, CA",36.58
+1348,"Van Nuys, CA","Calabasas, CA",18.58
+1349,"Van Nuys, CA","Walnut, CA",80.55
+1350,"Van Nuys, CA","Bell, CA",33.72
+1351,"Van Nuys, CA","San Fernando, CA",10.98
+1352,"Van Nuys, CA","Cudahy, CA",34.93
+1353,"Van Nuys, CA","Palmdale, CA",53.22
+1354,"Van Nuys, CA","La Cañada Flintridge, CA",22.87
+1355,"Van Nuys, CA","Rolling Hills Estates, CA",45.13
+1356,"Van Nuys, CA","Baldwin Park, CA",46.26
+1357,"Van Nuys, CA","Avalon, CA",94.56
+1358,"Van Nuys, CA","Rancho Palos Verdes, CA",49.26
+1359,"Van Nuys, CA","Palos Verdes Estates, CA",44.62
+1360,"Van Nuys, CA","Sierra Madre, CA",36.52
+1361,"Van Nuys, CA","La Puente, CA",48.91
+1362,"Van Nuys, CA","Santa Clarita, CA",24.38
+1363,"Van Nuys, CA","La Mirada, CA",51.0
+1364,"Van Nuys, CA","Bradbury, CA",44.18
+1365,"Van Nuys, CA","Temple City, CA",37.01
+1366,"Van Nuys, CA","La Habra Heights, CA",52.33
+1367,"Van Nuys, CA","La Verne, CA",63.38
+1368,"Van Nuys, CA","Rolling Hills, CA",47.57
+1369,"Van Nuys, CA","Hidden Hills, CA",19.4
+1370,"Los Angeles, CA","Lancaster, CA",72.32
+1371,"Los Angeles, CA","Hermosa Beach, CA",25.36
+1372,"Los Angeles, CA","Gardena, CA",18.42
+1373,"Los Angeles, CA","Arcadia, CA",20.79
+1374,"Studio City, CA","Beverly Hills, CA",8.76
+1375,"Studio City, CA","Arcadia, CA",32.79
+1376,"Studio City, CA","Manhattan Beach, CA",28.56
+1377,"Studio City, CA","Glendora, CA",48.87
+1378,"Studio City, CA","Claremont, CA",62.53
+1379,"Studio City, CA","South Pasadena, CA",23.19
+1380,"Studio City, CA","Hawaiian Gardens, CA",46.33
+1381,"Studio City, CA","Lawndale, CA",29.17
+1382,"Studio City, CA","Bell Gardens, CA",30.14
+1383,"Studio City, CA","Calabasas, CA",22.82
+1384,"Studio City, CA","Walnut, CA",74.11
+1385,"Studio City, CA","Rancho Palos Verdes, CA",44.55
+1386,"Studio City, CA","Temple City, CA",31.47
+1387,"Los Angeles, CA","Rosemead, CA",14.34
+1388,"Los Angeles, CA","Lakewood, CA",25.4
+1389,"Los Angeles, CA","Bell Gardens, CA",12.66
+1390,"Los Angeles, CA","Lynwood, CA",14.8
+1391,"Los Angeles, CA","Covina, CA",32.79
+1392,"Los Angeles, CA","Palos Verdes Estates, CA",33.06
+1393,"Los Angeles, CA","Commerce, CA",9.77
+1394,"Los Angeles, CA","West Hollywood, CA",12.42
+1395,"Los Angeles, CA","Pico Rivera, CA",15.58
+1396,"Valley Village, CA","Vernon, CA",23.5
+1397,"Valley Village, CA","Industry, CA",43.39
+1398,"Valley Village, CA","Irwindale, CA",43.02
+1399,"Valley Village, CA","Commerce, CA",28.45
+1400,"Valley Village, CA","Lancaster, CA",64.03
+1401,"Valley Village, CA","Santa Fe Springs, CA",38.53
+1402,"Valley Village, CA","Signal Hill, CA",45.12
+1403,"Valley Village, CA","El Segundo, CA",27.49
+1404,"Valley Village, CA","Lakewood, CA",43.33
+1405,"Valley Village, CA","Culver City, CA",15.86
+1406,"Valley Village, CA","West Hollywood, CA",8.33
+1407,"Valley Village, CA","South El Monte, CA",34.52
+1408,"Valley Village, CA","Santa Monica, CA",18.25
+1409,"Valley Village, CA","Beverly Hills, CA",10.46
+1410,"Valley Village, CA","Malibu, CA",30.5
+1411,"Valley Village, CA","Cerritos, CA",45.88
+1412,"Valley Village, CA","Pomona, CA",60.58
+1413,"Valley Village, CA","Huntington Park, CA",26.34
+1414,"Valley Village, CA","South Gate, CA",30.15
+1415,"Valley Village, CA","Gardena, CA",30.9
+1416,"Valley Village, CA","Long Beach, CA",47.79
+1417,"Valley Village, CA","Inglewood, CA",23.42
+1418,"Valley Village, CA","Lynwood, CA",32.03
+1419,"Valley Village, CA","Hermosa Beach, CA",33.3
+1420,"Valley Village, CA","Paramount, CA",36.04
+1421,"Valley Village, CA","Carson, CA",39.21
+1422,"Valley Village, CA","Arcadia, CA",32.94
+1423,"Valley Village, CA","Burbank, CA",6.8
+1424,"Valley Village, CA","Manhattan Beach, CA",30.26
+1425,"Valley Village, CA","Downey, CA",34.97
+1426,"Valley Village, CA","Los Angeles, CA",18.71
+1427,"Valley Village, CA","Redondo Beach, CA",35.38
+1428,"Valley Village, CA","Torrance, CA",36.82
+1429,"Valley Village, CA","Artesia, CA",43.9
+1430,"Valley Village, CA","Compton, CA",33.74
+1431,"Valley Village, CA","Glendora, CA",48.98
+1432,"Valley Village, CA","Rosemead, CA",30.35
+1433,"Valley Village, CA","Pasadena, CA",23.27
+1434,"Valley Village, CA","San Dimas, CA",54.66
+1435,"Valley Village, CA","Bellflower, CA",40.52
+1436,"Valley Village, CA","Monterey Park, CA",27.55
+1437,"Valley Village, CA","Covina, CA",47.47
+1438,"Valley Village, CA","Monrovia, CA",36.4
+1439,"Valley Village, CA","Whittier, CA",39.93
+1440,"Valley Village, CA","Hawthorne, CA",27.59
+1441,"Valley Village, CA","Pico Rivera, CA",34.15
+1442,"Valley Village, CA","Alhambra, CA",26.02
+1443,"Valley Village, CA","Montebello, CA",30.93
+1444,"Valley Village, CA","Claremont, CA",62.74
+1445,"Valley Village, CA","West Covina, CA",43.43
+1446,"Valley Village, CA","San Gabriel, CA",27.47
+1447,"Valley Village, CA","Azusa, CA",45.3
+1448,"Valley Village, CA","South Pasadena, CA",23.57
+1449,"Valley Village, CA","Hawaiian Gardens, CA",47.67
+1450,"Valley Village, CA","Lawndale, CA",30.86
+1451,"Valley Village, CA","Glendale, CA",13.81
+1452,"Valley Village, CA","El Monte, CA",34.55
+1453,"Valley Village, CA","Maywood, CA",27.68
+1454,"Valley Village, CA","Westlake Village, CA",37.74
+1455,"Valley Village, CA","Diamond Bar, CA",56.03
+1456,"Valley Village, CA","Duarte, CA",38.68
+1457,"Valley Village, CA","Agoura Hills, CA",34.01
+1458,"Valley Village, CA","Lomita, CA",40.66
+1459,"Valley Village, CA","Norwalk, CA",40.31
+1460,"Valley Village, CA","San Marino, CA",27.17
+1461,"Valley Village, CA","Bell Gardens, CA",31.32
+1462,"Valley Village, CA","Calabasas, CA",22.87
+1463,"Valley Village, CA","Walnut, CA",75.27
+1464,"Valley Village, CA","Bell, CA",28.55
+1465,"Valley Village, CA","San Fernando, CA",14.0
+1466,"Valley Village, CA","Cudahy, CA",29.8
+1467,"Valley Village, CA","Palmdale, CA",52.85
+1468,"Valley Village, CA","La Cañada Flintridge, CA",18.48
+1469,"Valley Village, CA","Rolling Hills Estates, CA",41.95
+1470,"Valley Village, CA","Baldwin Park, CA",41.01
+1471,"Valley Village, CA","Avalon, CA",91.57
+1472,"Valley Village, CA","Rancho Palos Verdes, CA",46.25
+1473,"Valley Village, CA","Palos Verdes Estates, CA",41.87
+1474,"Valley Village, CA","Sierra Madre, CA",31.63
+1475,"Valley Village, CA","La Puente, CA",43.53
+1476,"Valley Village, CA","Santa Clarita, CA",28.68
+1477,"Valley Village, CA","La Mirada, CA",45.66
+1478,"Valley Village, CA","Bradbury, CA",39.21
+1479,"Valley Village, CA","Temple City, CA",31.79
+1480,"Valley Village, CA","La Habra Heights, CA",46.9
+1481,"Valley Village, CA","La Verne, CA",58.29
+1482,"Valley Village, CA","Rolling Hills, CA",44.35
+1483,"Valley Village, CA","Hidden Hills, CA",24.04
+1484,"Los Angeles, CA","Vernon, CA",5.42
+1485,"Los Angeles, CA","El Monte, CA",19.12
+1486,"Los Angeles, CA","La Cañada Flintridge, CA",16.71
+1487,"Los Angeles, CA","Rolling Hills Estates, CA",31.42
+1488,"North Hollywood, CA","Industry, CA",41.59
+1489,"North Hollywood, CA","Santa Fe Springs, CA",37.07
+1490,"North Hollywood, CA","Malibu, CA",32.35
+1491,"North Hollywood, CA","Huntington Park, CA",25.2
+1492,"North Hollywood, CA","Gardena, CA",30.54
+1493,"North Hollywood, CA","Downey, CA",33.68
+1494,"North Hollywood, CA","Torrance, CA",36.73
+1495,"North Hollywood, CA","Rosemead, CA",28.53
+1496,"North Hollywood, CA","Pasadena, CA",21.28
+1497,"North Hollywood, CA","Covina, CA",45.52
+1498,"North Hollywood, CA","Alhambra, CA",24.16
+1499,"North Hollywood, CA","Walnut, CA",73.89
+1500,"North Hollywood, CA","La Cañada Flintridge, CA",16.49
+1501,"North Hollywood, CA","Avalon, CA",91.59
+1502,"North Hollywood, CA","Rancho Palos Verdes, CA",46.33
+1503,"North Hollywood, CA","Signal Hill, CA",44.34
+1504,"North Hollywood, CA","El Segundo, CA",27.82
+1505,"North Hollywood, CA","Lakewood, CA",42.28
+1506,"North Hollywood, CA","Santa Monica, CA",19.41
+1507,"North Hollywood, CA","Beverly Hills, CA",10.78
+1508,"North Hollywood, CA","South Gate, CA",29.11
+1509,"North Hollywood, CA","Long Beach, CA",47.15
+1510,"North Hollywood, CA","Lynwood, CA",31.06
+1511,"North Hollywood, CA","Carson, CA",38.7
+1512,"North Hollywood, CA","Los Angeles, CA",17.34
+1513,"North Hollywood, CA","Redondo Beach, CA",35.53
+1514,"North Hollywood, CA","Compton, CA",32.98
+1515,"North Hollywood, CA","San Dimas, CA",52.68
+1516,"North Hollywood, CA","Monrovia, CA",34.4
+1517,"North Hollywood, CA","Whittier, CA",38.33
+1518,"North Hollywood, CA","Pico Rivera, CA",32.63
+1519,"North Hollywood, CA","Montebello, CA",29.33
+1520,"North Hollywood, CA","Claremont, CA",60.76
+1521,"North Hollywood, CA","West Covina, CA",41.52
+1522,"North Hollywood, CA","Azusa, CA",43.31
+1523,"North Hollywood, CA","Hawaiian Gardens, CA",46.55
+1524,"North Hollywood, CA","Maywood, CA",26.41
+1525,"North Hollywood, CA","Westlake Village, CA",39.75
+1526,"North Hollywood, CA","Lomita, CA",40.5
+1527,"North Hollywood, CA","San Marino, CA",25.22
+1528,"North Hollywood, CA","Bell, CA",27.34
+1529,"North Hollywood, CA","Cudahy, CA",28.62
+1530,"North Hollywood, CA","Rolling Hills Estates, CA",41.97
+1531,"North Hollywood, CA","Palos Verdes Estates, CA",42.07
+1532,"North Hollywood, CA","Temple City, CA",29.85
+1533,"West Hollywood, CA","Industry, CA",38.66
+1534,"West Hollywood, CA","Santa Fe Springs, CA",31.97
+1535,"West Hollywood, CA","West Hollywood, CA",0.0
+1536,"West Hollywood, CA","South El Monte, CA",30.05
+1537,"West Hollywood, CA","Gardena, CA",22.57
+1538,"West Hollywood, CA","Lynwood, CA",24.15
+1539,"West Hollywood, CA","Los Angeles, CA",12.42
+1540,"West Hollywood, CA","Redondo Beach, CA",27.49
+1541,"West Hollywood, CA","Compton, CA",25.59
+1542,"West Hollywood, CA","Pasadena, CA",21.59
+1543,"West Hollywood, CA","Bellflower, CA",32.95
+1544,"West Hollywood, CA","Monrovia, CA",34.43
+1545,"West Hollywood, CA","Whittier, CA",33.99
+1546,"West Hollywood, CA","Pico Rivera, CA",27.9
+1547,"West Hollywood, CA","Montebello, CA",25.18
+1548,"West Hollywood, CA","Azusa, CA",42.94
+1549,"West Hollywood, CA","El Monte, CA",30.68
+1550,"West Hollywood, CA","Maywood, CA",20.62
+1551,"West Hollywood, CA","Bell, CA",21.31
+1552,"West Hollywood, CA","Cudahy, CA",22.42
+1553,"West Hollywood, CA","La Cañada Flintridge, CA",19.6
+1554,"West Hollywood, CA","Avalon, CA",83.5
+1555,"West Hollywood, CA","Rancho Palos Verdes, CA",38.25
+1556,"West Hollywood, CA","Sierra Madre, CA",30.13
+1557,"West Hollywood, CA","La Mirada, CA",39.01
+1558,"West Hollywood, CA","Bradbury, CA",37.17
+1559,"West Hollywood, CA","Hidden Hills, CA",27.73
+1560,"West Hollywood, CA","Vernon, CA",16.3
+1561,"West Hollywood, CA","Signal Hill, CA",36.95
+1562,"West Hollywood, CA","Culver City, CA",8.3
+1563,"West Hollywood, CA","Beverly Hills, CA",3.54
+1564,"West Hollywood, CA","Malibu, CA",30.16
+1565,"West Hollywood, CA","Cerritos, CA",38.57
+1566,"West Hollywood, CA","Pomona, CA",57.03
+1567,"West Hollywood, CA","Huntington Park, CA",18.93
+1568,"West Hollywood, CA","South Gate, CA",22.45
+1569,"West Hollywood, CA","Long Beach, CA",39.51
+1570,"West Hollywood, CA","Inglewood, CA",15.21
+1571,"West Hollywood, CA","Paramount, CA",28.22
+1572,"West Hollywood, CA","Arcadia, CA",30.69
+1573,"West Hollywood, CA","Artesia, CA",36.47
+1574,"West Hollywood, CA","Glendora, CA",46.65
+1575,"West Hollywood, CA","Alhambra, CA",22.31
+1576,"West Hollywood, CA","Lawndale, CA",22.71
+1577,"West Hollywood, CA","Westlake Village, CA",40.66
+1578,"West Hollywood, CA","Diamond Bar, CA",51.97
+1579,"West Hollywood, CA","Duarte, CA",36.47
+1580,"West Hollywood, CA","San Marino, CA",24.48
+1581,"West Hollywood, CA","Walnut, CA",68.21
+1582,"West Hollywood, CA","San Fernando, CA",22.33
+1583,"West Hollywood, CA","Rolling Hills Estates, CA",33.88
+1584,"West Hollywood, CA","Baldwin Park, CA",37.59
+1585,"West Hollywood, CA","Palos Verdes Estates, CA",34.05
+1586,"West Hollywood, CA","Santa Clarita, CA",36.9
+1587,"Tujunga, CA","Signal Hill, CA",50.97
+1588,"Tujunga, CA","Hermosa Beach, CA",44.26
+1589,"Tujunga, CA","Carson, CA",46.83
+1590,"Tujunga, CA","Burbank, CA",8.57
+1591,"Tujunga, CA","Downey, CA",37.64
+1592,"Tujunga, CA","Los Angeles, CA",22.47
+1593,"Tujunga, CA","Compton, CA",40.14
+1594,"Tujunga, CA","Pasadena, CA",17.62
+1595,"Tujunga, CA","Claremont, CA",55.1
+1596,"Tujunga, CA","Santa Clarita, CA",28.02
+1597,"Tujunga, CA","Bradbury, CA",31.46
+1598,"Tujunga, CA","La Verne, CA",50.76
+1599,"North Hollywood, CA","Vernon, CA",22.3
+1600,"North Hollywood, CA","Lancaster, CA",63.18
+1601,"North Hollywood, CA","Culver City, CA",16.12
+1602,"North Hollywood, CA","West Hollywood, CA",8.09
+1603,"North Hollywood, CA","Pomona, CA",58.64
+1604,"North Hollywood, CA","Inglewood, CA",23.3
+1605,"North Hollywood, CA","Hermosa Beach, CA",33.49
+1606,"North Hollywood, CA","Paramount, CA",35.04
+1607,"North Hollywood, CA","Arcadia, CA",30.96
+1608,"North Hollywood, CA","Burbank, CA",4.87
+1609,"North Hollywood, CA","Glendora, CA",46.99
+1610,"North Hollywood, CA","Monterey Park, CA",25.84
+1611,"North Hollywood, CA","South Pasadena, CA",21.66
+1612,"North Hollywood, CA","Glendale, CA",11.85
+1613,"North Hollywood, CA","Diamond Bar, CA",54.14
+1614,"North Hollywood, CA","Agoura Hills, CA",36.02
+1615,"North Hollywood, CA","Bell Gardens, CA",29.99
+1616,"North Hollywood, CA","San Fernando, CA",14.54
+1617,"North Hollywood, CA","Baldwin Park, CA",39.08
+1618,"North Hollywood, CA","La Puente, CA",41.7
+1619,"North Hollywood, CA","Santa Clarita, CA",29.55
+1620,"North Hollywood, CA","La Habra Heights, CA",45.22
+1621,"North Hollywood, CA","Hidden Hills, CA",26.05
+1622,"Los Angeles, CA","El Segundo, CA",22.02
+1623,"Los Angeles, CA","Hidden Hills, CA",40.14
+1624,"Tujunga, CA","Vernon, CA",27.87
+1625,"Tujunga, CA","Irwindale, CA",36.36
+1626,"Tujunga, CA","Santa Fe Springs, CA",39.39
+1627,"Tujunga, CA","Lakewood, CA",47.39
+1628,"Tujunga, CA","Malibu, CA",44.07
+1629,"Tujunga, CA","Pomona, CA",54.02
+1630,"Tujunga, CA","Huntington Park, CA",30.78
+1631,"Tujunga, CA","Lynwood, CA",37.26
+1632,"Tujunga, CA","Paramount, CA",40.75
+1633,"Tujunga, CA","Manhattan Beach, CA",41.29
+1634,"Tujunga, CA","Hawthorne, CA",37.48
+1635,"Tujunga, CA","Pico Rivera, CA",34.74
+1636,"Tujunga, CA","Alhambra, CA",23.1
+1637,"Tujunga, CA","San Gabriel, CA",23.74
+1638,"Tujunga, CA","Azusa, CA",37.59
+1639,"Tujunga, CA","Hawaiian Gardens, CA",51.08
+1640,"Tujunga, CA","Maywood, CA",31.01
+1641,"Tujunga, CA","Westlake Village, CA",49.06
+1642,"Tujunga, CA","Agoura Hills, CA",45.4
+1643,"Tujunga, CA","Rolling Hills Estates, CA",52.04
+1644,"Tujunga, CA","Sierra Madre, CA",23.89
+1645,"Tujunga, CA","Temple City, CA",26.58
+1646,"North Hollywood, CA","Irwindale, CA",41.05
+1647,"North Hollywood, CA","Commerce, CA",27.01
+1648,"North Hollywood, CA","South El Monte, CA",32.71
+1649,"North Hollywood, CA","Cerritos, CA",44.62
+1650,"North Hollywood, CA","Manhattan Beach, CA",30.45
+1651,"North Hollywood, CA","Artesia, CA",42.69
+1652,"North Hollywood, CA","Bellflower, CA",39.39
+1653,"North Hollywood, CA","Hawthorne, CA",27.47
+1654,"North Hollywood, CA","San Gabriel, CA",25.57
+1655,"North Hollywood, CA","Lawndale, CA",30.8
+1656,"North Hollywood, CA","El Monte, CA",32.67
+1657,"North Hollywood, CA","Duarte, CA",36.68
+1658,"North Hollywood, CA","Norwalk, CA",39.01
+1659,"North Hollywood, CA","Calabasas, CA",24.89
+1660,"North Hollywood, CA","Palmdale, CA",51.79
+1661,"North Hollywood, CA","Sierra Madre, CA",29.62
+1662,"North Hollywood, CA","La Mirada, CA",44.2
+1663,"North Hollywood, CA","Bradbury, CA",37.21
+1664,"North Hollywood, CA","La Verne, CA",56.31
+1665,"North Hollywood, CA","Rolling Hills, CA",44.33
+1666,"Tujunga, CA","Industry, CA",39.93
+1667,"Tujunga, CA","West Hollywood, CA",19.28
+1668,"Tujunga, CA","South El Monte, CA",31.47
+1669,"Tujunga, CA","Gardena, CA",39.6
+1670,"Tujunga, CA","Inglewood, CA",33.45
+1671,"Tujunga, CA","Glendora, CA",41.0
+1672,"Tujunga, CA","Rosemead, CA",27.6
+1673,"Tujunga, CA","San Dimas, CA",47.17
+1674,"Tujunga, CA","Bellflower, CA",44.04
+1675,"Tujunga, CA","Whittier, CA",39.26
+1676,"Tujunga, CA","Montebello, CA",30.89
+1677,"Tujunga, CA","South Pasadena, CA",20.15
+1678,"Tujunga, CA","Lawndale, CA",40.88
+1679,"Tujunga, CA","San Marino, CA",22.21
+1680,"Tujunga, CA","Calabasas, CA",34.83
+1681,"Tujunga, CA","Walnut, CA",75.79
+1682,"Tujunga, CA","San Fernando, CA",14.19
+1683,"Tujunga, CA","Palmdale, CA",39.62
+1684,"Tujunga, CA","Palos Verdes Estates, CA",52.75
+1685,"Tujunga, CA","La Puente, CA",39.67
+1686,"Tujunga, CA","La Habra Heights, CA",44.95
+1687,"Tujunga, CA","Hidden Hills, CA",35.36
+1688,"Tarzana, CA","Vernon, CA",33.85
+1689,"Tarzana, CA","Commerce, CA",39.58
+1690,"Tarzana, CA","El Segundo, CA",30.15
+1691,"Tarzana, CA","Lakewood, CA",52.43
+1692,"Tarzana, CA","West Hollywood, CA",17.6
+1693,"Tarzana, CA","South El Monte, CA",46.93
+1694,"Tarzana, CA","Santa Monica, CA",17.14
+1695,"Tarzana, CA","Beverly Hills, CA",16.99
+1696,"Tarzana, CA","Malibu, CA",20.44
+1697,"Tarzana, CA","Pomona, CA",73.35
+1698,"Tarzana, CA","South Gate, CA",39.6
+1699,"Tarzana, CA","Long Beach, CA",54.68
+1700,"Tarzana, CA","Lynwood, CA",41.04
+1701,"Tarzana, CA","Arcadia, CA",45.82
+1702,"Tarzana, CA","Manhattan Beach, CA",33.48
+1703,"Tarzana, CA","Downey, CA",45.31
+1704,"Tarzana, CA","Glendora, CA",61.87
+1705,"Tarzana, CA","Monterey Park, CA",39.66
+1706,"Tarzana, CA","Pico Rivera, CA",45.48
+1707,"Tarzana, CA","Alhambra, CA",38.63
+1708,"Tarzana, CA","Claremont, CA",75.61
+1709,"Tarzana, CA","West Covina, CA",56.13
+1710,"Tarzana, CA","Azusa, CA",58.19
+1711,"Tarzana, CA","Hawaiian Gardens, CA",57.0
+1712,"Tarzana, CA","Lawndale, CA",35.46
+1713,"Tarzana, CA","Glendale, CA",26.68
+1714,"Tarzana, CA","El Monte, CA",47.17
+1715,"Tarzana, CA","Maywood, CA",38.17
+1716,"Tarzana, CA","Westlake Village, CA",24.94
+1717,"Tarzana, CA","Agoura Hills, CA",21.21
+1718,"Tarzana, CA","Calabasas, CA",10.26
+1719,"Tarzana, CA","Walnut, CA",85.62
+1720,"Tarzana, CA","San Fernando, CA",15.79
+1721,"Tarzana, CA","Baldwin Park, CA",53.77
+1722,"Tarzana, CA","Avalon, CA",93.94
+1723,"Tarzana, CA","Rancho Palos Verdes, CA",49.2
+1724,"Tarzana, CA","Palos Verdes Estates, CA",44.22
+1725,"Tarzana, CA","Sierra Madre, CA",44.51
+1726,"Tarzana, CA","Santa Clarita, CA",24.77
+1727,"Tarzana, CA","La Habra Heights, CA",58.76
+1728,"Tarzana, CA","Rolling Hills, CA",47.92
+1729,"Tujunga, CA","Commerce, CA",30.3
+1730,"Tujunga, CA","El Segundo, CA",39.07
+1731,"Tujunga, CA","Culver City, CA",27.55
+1732,"Tujunga, CA","Santa Monica, CA",31.91
+1733,"Tujunga, CA","Beverly Hills, CA",22.6
+1734,"Tujunga, CA","Cerritos, CA",48.23
+1735,"Tujunga, CA","Torrance, CA",46.55
+1736,"Tujunga, CA","Monterey Park, CA",26.67
+1737,"Tujunga, CA","Monrovia, CA",28.81
+1738,"Tujunga, CA","West Covina, CA",38.09
+1739,"Tujunga, CA","Diamond Bar, CA",50.54
+1740,"Tujunga, CA","Lomita, CA",49.96
+1741,"Tujunga, CA","Norwalk, CA",42.49
+1742,"Tujunga, CA","Bell, CA",32.24
+1743,"Tujunga, CA","La Cañada Flintridge, CA",9.96
+1744,"Tujunga, CA","Baldwin Park, CA",35.36
+1745,"Tujunga, CA","Avalon, CA",101.25
+1746,"Tujunga, CA","Rolling Hills, CA",54.27
+1747,"Playa Del Rey, CA","Vernon, CA",20.55
+1748,"Playa Del Rey, CA","Industry, CA",44.78
+1749,"Playa Del Rey, CA","Irwindale, CA",49.51
+1750,"Playa Del Rey, CA","Commerce, CA",26.57
+1751,"Playa Del Rey, CA","Lancaster, CA",87.26
+1752,"Playa Del Rey, CA","Santa Fe Springs, CA",34.1
+1753,"Playa Del Rey, CA","Signal Hill, CA",29.99
+1754,"Playa Del Rey, CA","El Segundo, CA",4.65
+1755,"Playa Del Rey, CA","Lakewood, CA",31.85
+1756,"Playa Del Rey, CA","Culver City, CA",8.41
+1757,"Playa Del Rey, CA","West Hollywood, CA",16.64
+1758,"Playa Del Rey, CA","South El Monte, CA",37.74
+1759,"Playa Del Rey, CA","Santa Monica, CA",8.72
+1760,"Playa Del Rey, CA","Beverly Hills, CA",13.43
+1761,"Playa Del Rey, CA","Malibu, CA",24.82
+1762,"Playa Del Rey, CA","Cerritos, CA",36.89
+1763,"Playa Del Rey, CA","Pomona, CA",64.33
+1764,"Playa Del Rey, CA","Huntington Park, CA",21.15
+1765,"Playa Del Rey, CA","South Gate, CA",21.95
+1766,"Playa Del Rey, CA","Gardena, CA",13.89
+1767,"Playa Del Rey, CA","Long Beach, CA",30.74
+1768,"Playa Del Rey, CA","Inglewood, CA",7.91
+1769,"Playa Del Rey, CA","Lynwood, CA",22.05
+1770,"Playa Del Rey, CA","Hermosa Beach, CA",10.75
+1771,"Playa Del Rey, CA","Paramount, CA",25.46
+1772,"Playa Del Rey, CA","Carson, CA",21.95
+1773,"Playa Del Rey, CA","Arcadia, CA",41.94
+1774,"Playa Del Rey, CA","Burbank, CA",27.35
+1775,"Playa Del Rey, CA","Manhattan Beach, CA",8.04
+1776,"Playa Del Rey, CA","Downey, CA",28.59
+1777,"Playa Del Rey, CA","Los Angeles, CA",21.19
+1778,"Playa Del Rey, CA","Redondo Beach, CA",12.93
+1779,"Playa Del Rey, CA","Torrance, CA",15.97
+1780,"Playa Del Rey, CA","Artesia, CA",34.47
+1781,"Playa Del Rey, CA","Compton, CA",20.66
+1782,"Playa Del Rey, CA","Glendora, CA",56.58
+1783,"Playa Del Rey, CA","Rosemead, CA",34.71
+1784,"Playa Del Rey, CA","Pasadena, CA",34.62
+1785,"Playa Del Rey, CA","San Dimas, CA",60.67
+1786,"Playa Del Rey, CA","Bellflower, CA",30.76
+1787,"Playa Del Rey, CA","Monterey Park, CA",30.47
+1788,"Playa Del Rey, CA","Covina, CA",52.8
+1789,"Playa Del Rey, CA","Monrovia, CA",45.72
+1790,"Playa Del Rey, CA","Whittier, CA",37.67
+1791,"Playa Del Rey, CA","Hawthorne, CA",9.22
+1792,"Playa Del Rey, CA","Pico Rivera, CA",31.71
+1793,"Playa Del Rey, CA","Alhambra, CA",32.62
+1794,"Playa Del Rey, CA","Montebello, CA",30.91
+1795,"Playa Del Rey, CA","Claremont, CA",68.13
+1796,"Playa Del Rey, CA","West Covina, CA",47.8
+1797,"Playa Del Rey, CA","San Gabriel, CA",34.44
+1798,"Playa Del Rey, CA","Azusa, CA",53.04
+1799,"Playa Del Rey, CA","South Pasadena, CA",32.13
+1800,"Playa Del Rey, CA","Hawaiian Gardens, CA",36.43
+1801,"Playa Del Rey, CA","Lawndale, CA",10.75
+1802,"Playa Del Rey, CA","Glendale, CA",27.73
+1803,"Playa Del Rey, CA","El Monte, CA",39.42
+1804,"Playa Del Rey, CA","Maywood, CA",23.65
+1805,"Playa Del Rey, CA","Westlake Village, CA",40.01
+1806,"Playa Del Rey, CA","Diamond Bar, CA",58.53
+1807,"Playa Del Rey, CA","Duarte, CA",47.25
+1808,"Playa Del Rey, CA","Agoura Hills, CA",37.03
+1809,"Playa Del Rey, CA","Lomita, CA",20.03
+1810,"Playa Del Rey, CA","Norwalk, CA",33.03
+1811,"Playa Del Rey, CA","San Marino, CA",35.9
+1812,"Playa Del Rey, CA","Bell Gardens, CA",26.65
+1813,"Playa Del Rey, CA","Calabasas, CA",28.4
+1814,"Playa Del Rey, CA","Walnut, CA",65.64
+1815,"Playa Del Rey, CA","Bell, CA",23.37
+1816,"Playa Del Rey, CA","San Fernando, CA",36.79
+1817,"Playa Del Rey, CA","Cudahy, CA",23.56
+1818,"Playa Del Rey, CA","Palmdale, CA",75.54
+1819,"Playa Del Rey, CA","La Cañada Flintridge, CA",35.04
+1820,"Playa Del Rey, CA","Rolling Hills Estates, CA",19.94
+1821,"Playa Del Rey, CA","Baldwin Park, CA",46.38
+1822,"Playa Del Rey, CA","Avalon, CA",68.82
+1823,"Playa Del Rey, CA","Rancho Palos Verdes, CA",23.73
+1824,"Playa Del Rey, CA","Palos Verdes Estates, CA",18.87
+1825,"Playa Del Rey, CA","Sierra Madre, CA",42.39
+1826,"Playa Del Rey, CA","La Puente, CA",45.53
+1827,"Playa Del Rey, CA","Santa Clarita, CA",49.58
+1828,"Playa Del Rey, CA","La Mirada, CA",39.86
+1829,"Playa Del Rey, CA","Bradbury, CA",48.15
+1830,"Playa Del Rey, CA","Temple City, CA",39.07
+1831,"Playa Del Rey, CA","La Habra Heights, CA",45.05
+1832,"Playa Del Rey, CA","La Verne, CA",63.95
+1833,"Playa Del Rey, CA","Rolling Hills, CA",22.4
+1834,"Playa Del Rey, CA","Hidden Hills, CA",30.86
+1835,"Studio City, CA","Industry, CA",42.76
+1836,"Studio City, CA","Commerce, CA",27.38
+1837,"Studio City, CA","Santa Monica, CA",16.8
+1838,"Studio City, CA","South Gate, CA",28.78
+1839,"Studio City, CA","Pasadena, CA",23.16
+1840,"Studio City, CA","Monterey Park, CA",26.79
+1841,"Studio City, CA","Monrovia, CA",36.32
+1842,"Studio City, CA","Whittier, CA",39.02
+1843,"Studio City, CA","Hawthorne, CA",25.9
+1844,"Studio City, CA","Montebello, CA",30.03
+1845,"Studio City, CA","San Gabriel, CA",27.04
+1846,"Studio City, CA","Westlake Village, CA",37.73
+1847,"Studio City, CA","Agoura Hills, CA",34.0
+1848,"Studio City, CA","Lomita, CA",38.98
+1849,"Studio City, CA","Cudahy, CA",28.51
+1850,"Studio City, CA","Avalon, CA",89.87
+1851,"Studio City, CA","Sierra Madre, CA",31.63
+1852,"Studio City, CA","La Puente, CA",42.94
+1853,"Studio City, CA","Santa Clarita, CA",30.21
+1854,"Studio City, CA","Rolling Hills, CA",42.65
+1855,"Woodland Hills, CA","Industry, CA",61.83
+1856,"Woodland Hills, CA","Commerce, CA",45.3
+1857,"Woodland Hills, CA","South El Monte, CA",53.08
+1858,"Woodland Hills, CA","Santa Monica, CA",19.64
+1859,"Woodland Hills, CA","Malibu, CA",16.66
+1860,"Woodland Hills, CA","Huntington Park, CA",41.74
+1861,"Woodland Hills, CA","Long Beach, CA",58.58
+1862,"Woodland Hills, CA","Lynwood, CA",45.99
+1863,"Woodland Hills, CA","Carson, CA",49.63
+1864,"Woodland Hills, CA","Redondo Beach, CA",41.1
+1865,"Woodland Hills, CA","San Dimas, CA",73.87
+1866,"Woodland Hills, CA","Whittier, CA",57.34
+1867,"Woodland Hills, CA","Pico Rivera, CA",51.22
+1868,"Woodland Hills, CA","Alhambra, CA",44.86
+1869,"Woodland Hills, CA","Montebello, CA",48.54
+1870,"Woodland Hills, CA","South Pasadena, CA",42.59
+1871,"Woodland Hills, CA","Hawaiian Gardens, CA",61.89
+1872,"Woodland Hills, CA","El Monte, CA",53.39
+1873,"Woodland Hills, CA","Agoura Hills, CA",14.89
+1874,"Woodland Hills, CA","Bell Gardens, CA",47.43
+1875,"Woodland Hills, CA","Rancho Palos Verdes, CA",51.5
+1876,"Woodland Hills, CA","Bradbury, CA",58.47
+1877,"Woodland Hills, CA","Temple City, CA",50.88
+1878,"Woodland Hills, CA","La Verne, CA",77.49
+1879,"Woodland Hills, CA","Rolling Hills, CA",50.52
+1880,"Studio City, CA","Lancaster, CA",65.6
+1881,"Studio City, CA","El Segundo, CA",25.79
+1882,"Studio City, CA","South El Monte, CA",33.92
+1883,"Studio City, CA","Malibu, CA",29.77
+1884,"Studio City, CA","Long Beach, CA",46.21
+1885,"Studio City, CA","Inglewood, CA",21.74
+1886,"Studio City, CA","Lynwood, CA",30.61
+1887,"Studio City, CA","Carson, CA",37.6
+1888,"Studio City, CA","Torrance, CA",35.13
+1889,"Studio City, CA","Compton, CA",32.23
+1890,"Studio City, CA","Rosemead, CA",29.76
+1891,"Studio City, CA","Bellflower, CA",39.2
+1892,"Studio City, CA","Pico Rivera, CA",33.15
+1893,"Studio City, CA","Duarte, CA",38.56
+1894,"Studio City, CA","Bell, CA",27.3
+1895,"Studio City, CA","Palmdale, CA",54.33
+1896,"Studio City, CA","Palos Verdes Estates, CA",40.16
+1897,"Studio City, CA","La Mirada, CA",44.59
+1898,"Los Angeles, CA","Carson, CA",24.64
+1899,"Los Angeles, CA","Redondo Beach, CA",26.77
+1900,"Granada Hills, CA","Industry, CA",58.3
+1901,"Granada Hills, CA","Irwindale, CA",56.49
+1902,"Granada Hills, CA","Malibu, CA",30.13
+1903,"Granada Hills, CA","Pomona, CA",74.25
+1904,"Granada Hills, CA","Carson, CA",54.11
+1905,"Granada Hills, CA","Arcadia, CA",46.21
+1906,"Granada Hills, CA","Manhattan Beach, CA",43.15
+1907,"Granada Hills, CA","Los Angeles, CA",34.6
+1908,"Granada Hills, CA","Glendora, CA",61.69
+1909,"Granada Hills, CA","San Dimas, CA",67.73
+1910,"Granada Hills, CA","Bellflower, CA",56.4
+1911,"Granada Hills, CA","Monterey Park, CA",42.91
+1912,"Granada Hills, CA","Covina, CA",61.11
+1913,"Granada Hills, CA","Whittier, CA",55.54
+1914,"Granada Hills, CA","Pico Rivera, CA",49.9
+1915,"Granada Hills, CA","Montebello, CA",46.55
+1916,"Granada Hills, CA","West Covina, CA",57.58
+1917,"Granada Hills, CA","South Pasadena, CA",38.01
+1918,"Granada Hills, CA","Hawaiian Gardens, CA",63.52
+1919,"Granada Hills, CA","El Monte, CA",49.05
+1920,"Granada Hills, CA","Westlake Village, CA",29.72
+1921,"Granada Hills, CA","Duarte, CA",51.63
+1922,"Granada Hills, CA","Norwalk, CA",56.22
+1923,"Granada Hills, CA","San Marino, CA",41.14
+1924,"Granada Hills, CA","Walnut, CA",91.16
+1925,"Granada Hills, CA","San Fernando, CA",7.62
+1926,"Granada Hills, CA","Cudahy, CA",45.7
+1927,"Granada Hills, CA","Rancho Palos Verdes, CA",59.15
+1928,"Granada Hills, CA","Sierra Madre, CA",44.27
+1929,"Granada Hills, CA","La Puente, CA",58.29
+1930,"Granada Hills, CA","Santa Clarita, CA",14.15
+1931,"Granada Hills, CA","Temple City, CA",45.78
+1932,"Granada Hills, CA","La Habra Heights, CA",62.29
+1933,"Granada Hills, CA","La Verne, CA",71.36
+1934,"Granada Hills, CA","Rolling Hills, CA",57.64
+1935,"Granada Hills, CA","Hidden Hills, CA",17.19

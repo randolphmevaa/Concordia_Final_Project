@@ -1,0 +1,2 @@
+In this folder, 'los-angeles-county.json' is a the original folder
+'los-angeles-county copy.json' is a custom version that I made by deleting few counties

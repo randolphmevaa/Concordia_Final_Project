@@ -1,0 +1,128 @@
+,Unnamed: 0.1,Unnamed: 0,Prices,Address,Jurisdiction,Zip Code,State,Longitude,Latitude
+0,0,0,4949000,"1312 Beverly Grove Pl, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+1,1,1,225000,"0 Earl Ct, Los Angeles, CA 90039","Los Angeles, CA",90039,California,-118.242766,34.0536909
+2,2,2,120000,"0 N Woods Dr, West Hollywood, CA 90069","West Hollywood, CA",90069,California,-118.3692894,34.0923014
+3,3,3,800000,"14745 Mulholland Dr, Los Angeles, CA 90077","Los Angeles, CA",90077,California,-118.242766,34.0536909
+4,4,4,3300000,"0 Balboa Blvd, Granada Hills, CA 91344","Granada Hills, CA",91344,California,-118.5174342,34.2661558
+5,5,5,59995000,"1 Senderos Cyn, Los Angeles, CA 90077","Los Angeles, CA",90077,California,-118.242766,34.0536909
+6,6,6,7250000,"1511 Summitridge Dr, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+7,7,7,7000,"0 Unknown Outside, Los Angeles, CA 90003","Los Angeles, CA",90003,California,-118.242766,34.0536909
+8,8,8,23900000,"74 S Beverly Park, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+9,9,9,235000,"7220 Pacific View Dr, Los Angeles, CA 90068","Los Angeles, CA",90068,California,-118.242766,34.0536909
+10,10,10,21000000,"9694 Antelope Rd, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+11,11,11,249000,"2813 Benedict Canyon Dr, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+12,12,12,285000,"1505 E 99th St, Los Angeles, CA 90002","Los Angeles, CA",90002,California,-118.242766,34.0536909
+13,13,13,360000,"1122 Watson Ave, Wilmington, CA 90744","Wilmington, CA",90744,California,-118.262509,33.7800164
+14,14,14,95000,"4000 N Elderbank Dr, Los Angeles, CA 90031","Los Angeles, CA",90031,California,-118.242766,34.0536909
+15,15,15,6995000,"13230 Old Oak Ln, Los Angeles, CA 90049","Los Angeles, CA",90049,California,-118.242766,34.0536909
+16,16,16,90000,"4935 Dartmouth Ave, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+17,17,17,238888,"2740 Chadwick Cir, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+18,18,18,235000,"7220 Pacific View Dr, Los Angeles, CA 90068","Los Angeles, CA",90068,California,-118.242766,34.0536909
+19,19,19,21000000,"9694 Antelope Rd, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+20,20,20,249000,"2813 Benedict Canyon Dr, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+21,21,21,285000,"1505 E 99th St, Los Angeles, CA 90002","Los Angeles, CA",90002,California,-118.242766,34.0536909
+22,22,22,360000,"1122 Watson Ave, Wilmington, CA 90744","Wilmington, CA",90744,California,-118.262509,33.7800164
+23,23,23,95000,"4000 N Elderbank Dr, Los Angeles, CA 90031","Los Angeles, CA",90031,California,-118.242766,34.0536909
+24,24,24,6995000,"13230 Old Oak Ln, Los Angeles, CA 90049","Los Angeles, CA",90049,California,-118.242766,34.0536909
+25,25,25,90000,"4935 Dartmouth Ave, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+26,26,26,238888,"2740 Chadwick Cir, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+27,27,27,13000,"350 Mahogany Trl, Tujunga, CA 91042","Tujunga, CA",91042,California,-118.2884105,34.252225
+28,28,28,1485000,"7831 Mulholland Dr, Studio City, CA 91604","Studio City, CA",91604,California,-118.3961877,34.1483989
+29,29,29,450000,"9918 Sunland Blvd, Sunland, CA 91040","Sunland, CA",91040,California,-118.3023,34.2669466
+30,30,30,6750000,"1862 Mango Way, Los Angeles, CA 90049","Los Angeles, CA",90049,California,-118.242766,34.0536909
+31,31,31,1200000,"12212 Laurel Terrace Dr, Studio City, CA 91604","Studio City, CA",91604,California,-118.3961877,34.1483989
+32,32,32,99000,"13361 Newcomb Dr, Sherman Oaks, CA 91423","Sherman Oaks, CA",91423,California,-118.4489865,34.1508718
+33,33,33,89000,"4418 Morro Dr, Woodland Hills, CA 91364","Woodland Hills, CA",91364,California,-118.6058382,34.1684364
+34,34,34,45000,"0 Road 93534, Los Angeles, CA 90003","Los Angeles, CA",90003,California,-118.242766,34.0536909
+35,35,35,450000,"366 Kirby St, Los Angeles, CA 90042","Los Angeles, CA",90042,California,-118.242766,34.0536909
+36,36,36,239000,"4971 Llano Dr, Woodland Hills, CA 91364","Woodland Hills, CA",91364,California,-118.6058382,34.1684364
+37,37,37,8000,"0 State Highway 58, Los Angeles, CA 90003","Los Angeles, CA",90003,California,-118.242766,34.0536909
+38,38,38,7000,"0 Unkown Outside, Los Angeles, CA 90003","Los Angeles, CA",90003,California,-118.242766,34.0536909
+39,39,39,549998,"444 Coronado Ter, Los Angeles, CA 90026","Los Angeles, CA",90026,California,-118.242766,34.0536909
+40,40,40,68000,"2245 N Latimer Ln, Los Angeles, CA 90077","Los Angeles, CA",90077,California,-118.242766,34.0536909
+41,41,41,175000,"841 Cynthia Ave, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+42,42,42,280000,"4567 Carter Dr, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+43,43,43,1195000,"0 Neon Way, Granada Hills, CA 91344","Granada Hills, CA",91344,California,-118.5174342,34.2661558
+44,44,44,199000,"9203 Stevens Way, Canoga Park, CA 91304","Canoga Park, CA",91304,California,-118.5978087,34.2011078
+45,45,45,2599000,"3309 Ellsworth St, Los Angeles, CA 90026","Los Angeles, CA",90026,California,-118.242766,34.0536909
+46,46,46,400000,"3255 Longridge Ter, Sherman Oaks, CA 91423","Sherman Oaks, CA",91423,California,-118.4489865,34.1508718
+47,47,47,119000,"3971 Hopevale Dr, Sherman Oaks, CA 91403","Sherman Oaks, CA",91403,California,-118.4489865,34.1508718
+48,48,48,595000,"304 Crane Blvd, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+49,49,49,75000,"0 Schumann Rd, Chatsworth, CA 91311","Chatsworth, CA",91311,California,-118.6023247,34.2595715
+50,50,50,1300000,"2130 Roscomare Rd, Los Angeles, CA 90077","Los Angeles, CA",90077,California,-118.242766,34.0536909
+51,51,51,129000,"7192 Woodrow Wilson Dr, Los Angeles, CA 90068","Los Angeles, CA",90068,California,-118.242766,34.0536909
+52,52,52,3695000,"362 S Canyon View Dr, Los Angeles, CA 90049","Los Angeles, CA",90049,California,-118.242766,34.0536909
+53,53,53,1095000,"2860 N Beverly Dr, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+54,54,54,110000,"2241 Moss Ave, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+55,55,55,1495000,"3018 Lakeridge Dr, Los Angeles, CA 90068","Los Angeles, CA",90068,California,-118.242766,34.0536909
+56,56,56,399000,"2113 N Alvarado St, Los Angeles, CA 90039","Los Angeles, CA",90039,California,-118.242766,34.0536909
+57,57,57,1497000,"800 Lorraine Blvd, Los Angeles, CA 90005","Los Angeles, CA",90005,California,-118.242766,34.0536909
+58,58,58,99000,"1958 Seigneur Ave, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+59,59,59,2495000,"340 N Edinburgh Ave, Los Angeles, CA 90048","Los Angeles, CA",90048,California,-118.242766,34.0536909
+60,60,60,1699996,"1209 N Cherokee Ave, Los Angeles, CA 90038","Los Angeles, CA",90038,California,-118.242766,34.0536909
+61,61,61,1620000,"1255 N Beachwood Dr, Los Angeles, CA 90038","Los Angeles, CA",90038,California,-118.242766,34.0536909
+62,62,62,17300000,"0 Palisades Dr, Pacific Palisades, CA 90272","Pacific Palisades, CA",90272,California,-118.5264706,34.0480643
+63,63,63,650000,"0 Woodward Ave, Sunland, CA 91040","Sunland, CA",91040,California,-118.3023,34.2669466
+64,64,64,450000,"20718 Napa St, Winnetka, CA 91306","Winnetka, CA",91306,California,-118.5711037,34.2013207
+65,65,65,1300000,"1525 Ricardo St, Los Angeles, CA 90033","Los Angeles, CA",90033,California,-118.242766,34.0536909
+66,66,66,79000,"5114 Castleman Ave, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+67,67,67,120000,"2808 Adkins Ave, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+68,68,68,1980000,"0 Ybarra Mtwy, Chatsworth, CA 91311","Chatsworth, CA",91311,California,-118.6023247,34.2595715
+69,69,69,1750000,"0 E Moffatt St, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+70,70,70,79000,"2731 Round Dr, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+71,71,71,199000,"25012 Woolsey Canyon Rd, Canoga Park, CA 91304","Canoga Park, CA",91304,California,-118.5978087,34.2011078
+72,72,72,1200000,"4221 Huntington Dr S, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+73,73,73,2350000,"5329 Tampa Ave, Tarzana, CA 91356","Tarzana, CA",91356,California,-118.536567,34.1689295
+74,74,74,599000,"10333 Tupelo Ln, Los Angeles, CA 90077","Los Angeles, CA",90077,California,-118.242766,34.0536909
+75,75,75,12000000,"2929 Amethyst St, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+76,76,76,350000,"3568 N The Paseo Dr, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+77,77,77,350000,"3624 N Paseo Dr, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+78,78,78,299995,"8169 Kirkwood Dr, Los Angeles, CA 90046","Los Angeles, CA",90046,California,-118.242766,34.0536909
+79,79,79,3200000,"6208-6212 West Blvd, Los Angeles, CA 90043","Los Angeles, CA",90043,California,-118.242766,34.0536909
+80,80,80,2400000,"17719 Kinzie St, Northridge, CA 91325","Northridge, CA",91325,California,-118.5369316,34.2345615
+81,81,81,200000,"3551 N Camino Real, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+82,82,82,895000,"2599 Dearborn Dr, Los Angeles, CA 90068","Los Angeles, CA",90068,California,-118.242766,34.0536909
+83,83,83,138000,"541 Quail Dr, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+84,84,84,549000,"3569 Glenalbyn Dr, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+85,85,85,60000,"801 W Ganymede Dr, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+86,86,86,75000,"257 N Furness Ave, Los Angeles, CA 90042","Los Angeles, CA",90042,California,-118.242766,34.0536909
+87,87,87,285000,"3032 Johnston St, Los Angeles, CA 90031","Los Angeles, CA",90031,California,-118.242766,34.0536909
+88,88,88,1490000,"744 S Carondelet St, Los Angeles, CA 90057","Los Angeles, CA",90057,California,-118.242766,34.0536909
+89,89,89,1500000,"0 Oland Ave, Sun Valley, CA 91352","Sun Valley, CA",91352,California,-118.3878945,34.2204227
+90,90,90,2200000,"1222 N Beachwood Dr, Los Angeles, CA 90038","Los Angeles, CA",90038,California,-118.242766,34.0536909
+91,91,91,1050000,"6059 Woodman Ave, Van Nuys, CA 91401","Van Nuys, CA",91401,California,-118.4486675,34.1866193
+92,92,92,7000000,"110 N Mariposa Ave, Los Angeles, CA 90004","Los Angeles, CA",90004,California,-118.242766,34.0536909
+93,93,93,65000,"2840 N Paradise Dr, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+94,94,94,750000,"3947 Alta Mesa Dr, Studio City, CA 91604","Studio City, CA",91604,California,-118.3961877,34.1483989
+95,95,95,395000,"1311 Abrigo Ave, Los Angeles, CA 90031","Los Angeles, CA",90031,California,-118.242766,34.0536909
+96,96,96,230000,"3714 Division St, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+97,97,97,325000,"2949 N Durand Dr, Los Angeles, CA 90068","Los Angeles, CA",90068,California,-118.242766,34.0536909
+98,98,98,1499999,"727 Bernard St, Los Angeles, CA 90012","Los Angeles, CA",90012,California,-118.242766,34.0536909
+99,99,99,1790000,"11826 Kling St, Valley Village, CA 91607","Valley Village, CA",91607,California,-118.3965758,34.1637147
+100,100,100,1400000,"314 Douglas St, Los Angeles, CA 90026","Los Angeles, CA",90026,California,-118.242766,34.0536909
+101,101,101,138500,"520 Rustic Dr, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+102,102,102,1099000,"2526 Benedict Canyon Dr, Beverly Hills, CA 90210","Beverly Hills, CA",90210,California,-118.3963062,34.0696501
+103,103,103,975000,"5844 Vineland Ave, North Hollywood, CA 91601","North Hollywood, CA",91601,California,-118.3747521,34.1649502
+104,104,104,350000,"2825 Prewett St, Los Angeles, CA 90031","Los Angeles, CA",90031,California,-118.242766,34.0536909
+105,105,105,849000,"12156 Oxnard St, North Hollywood, CA 91606","North Hollywood, CA",91606,California,-118.3747521,34.1649502
+106,106,106,895000,"1965 Sunset Plaza Dr, West Hollywood, CA 90069","West Hollywood, CA",90069,California,-118.3692894,34.0923014
+107,107,107,310000,"0 Verdemour, Street, CA 90032","Street, CA",90032,California,-119.0094715,38.2132137
+108,108,108,100000,"4279 Scandia Way, Los Angeles, CA 90065","Los Angeles, CA",90065,California,-118.242766,34.0536909
+109,109,109,1150000,"2561 Glen Green St, West Hollywood, CA 90069","West Hollywood, CA",90069,California,-118.3692894,34.0923014
+110,110,110,13000,"346 Mahogany Trl, Tujunga, CA 91042","Tujunga, CA",91042,California,-118.2884105,34.252225
+111,111,111,999000,"6729 Babcock Ave, North Hollywood, CA 91606","North Hollywood, CA",91606,California,-118.3747521,34.1649502
+112,112,112,999999,"1677 E Imperial Hwy, Los Angeles, CA 90059","Los Angeles, CA",90059,California,-118.242766,34.0536909
+113,113,113,75000,"0 Galena St, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+114,114,114,9600,"289 Fern Canyon Trl, Tujunga, CA 91042","Tujunga, CA",91042,California,-118.2884105,34.252225
+115,115,115,1495000,"6401 Camellia Ave, North Hollywood, CA 91606","North Hollywood, CA",91606,California,-118.3747521,34.1649502
+116,116,116,12000,"552 Sister Elsie Dr, Tujunga, CA 91042","Tujunga, CA",91042,California,-118.2884105,34.252225
+117,117,117,2350000,"5349 Tampa Ave, Tarzana, CA 91356","Tarzana, CA",91356,California,-118.536567,34.1689295
+118,118,118,2800000,"6463-6449 Valmont St, Tujunga, CA 91042","Tujunga, CA",91042,California,-118.2884105,34.252225
+119,119,119,1025000,"8100 Calabar Ave, Playa Del Rey, CA 90293","Playa Del Rey, CA",90293,California,-118.4388067,33.9541453
+120,120,120,225000,"0 Potosi Ave, Studio City, CA 91604","Studio City, CA",91604,California,-118.3961877,34.1483989
+121,121,121,650000,"5075 Hood Dr, Woodland Hills, CA 91364","Woodland Hills, CA",91364,California,-118.6058382,34.1684364
+122,122,122,400000,"3623 Goodland Dr, Studio City, CA 91604","Studio City, CA",91604,California,-118.3961877,34.1483989
+123,123,123,295000,"3756 Roberta St, Los Angeles, CA 90031","Los Angeles, CA",90031,California,-118.242766,34.0536909
+124,124,124,600000,"5054-5042 Williams Pl, Los Angeles, CA 90032","Los Angeles, CA",90032,California,-118.242766,34.0536909
+125,125,125,295000,"3754 Roberta St, Los Angeles, CA 90031","Los Angeles, CA",90031,California,-118.242766,34.0536909
+126,126,126,1150000,"18149 Knoll Hl, Granada Hills, CA 91344","Granada Hills, CA",91344,California,-118.5174342,34.2661558

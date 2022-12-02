@@ -1,0 +1,131 @@
+,Unnamed: 0,Neighborhood,"Total Population, All Races",Longitude,Latitude,Level of Population,Index of Population
+0,74,"North Hollywood, Los Angeles",126722,-118.3747521,34.1649502,Highly populated,1
+1,110,"Van Nuys, Los Angeles",114647,-118.4486675,34.1866193,Highly populated,1
+2,51,"Hollywood, Los Angeles",106784,-118.3415105,34.1010753,Highly populated,1
+3,10,"Boyle Heights, Los Angeles",100044,-118.2097684,34.0436892,Highly populated,1
+4,123,"Westlake & Historic Filipinotown, Los Angeles",91016,-118.2672465,34.0686604,Highly populated,1
+5,131,"Woodland Hills, CA",86601,-118.6058382,34.1684364,Highly populated,1
+6,75,"Northridge, Los Angeles",86451,-118.5369316,34.2345615,Highly populated,1
+7,89,"San Pedro, Los Angeles",79800,-118.2922934,33.7358518,Medium populated,2
+8,101,"Sylmar, Los Angeles",74562,-118.4492148,34.3076252,Medium populated,2
+9,78,"Pacoima, Los Angeles",73032,-118.427027,34.2625025,Medium populated,2
+10,13,"Canoga Park, Los Angeles",72993,-118.5978087,34.2011078,Medium populated,2
+11,127,"Wilshire Center, Los Angeles",71426,-118.44464240578608,34.0580985,Medium populated,2
+12,87,"Reseda, Los Angeles",71011,-118.536528,34.2006552,Medium populated,2
+13,80,"Panorama City, Los Angeles",66271,-118.4453745,34.2242902,Medium populated,2
+14,113,"Vermont Square, Los Angeles",64957,-118.3002125,34.0019449,Medium populated,2
+15,40,"Granada Hills, Los Angeles",64858,-118.5174342,34.2661558,Medium populated,2
+16,92,"Sherman Oaks, Los Angeles",63541,-118.4489865,34.1508718,Medium populated,2
+17,34,"Encino, Los Angeles",57648,-118.5016166,34.1591324,Medium populated,2
+18,126,"Wilmington, Los Angeles",55778,-118.262509,33.7800164,Medium populated,2
+19,125,"Westwood, Los Angeles",55765,-118.44685070595054,34.070877749999994,Medium populated,2
+20,98,"Sun Valley, Los Angeles",55443,-118.3878945,34.2204227,Medium populated,2
+21,37,"Florence-Firestone, Los Angeles",54587,-118.2433068,33.9674263,Medium populated,2
+22,18,"Chatsworth, Los Angeles",53957,-118.6023247,34.2595715,Medium populated,2
+23,73,"North Hills, Los Angeles",53573,-118.4854081,34.2429575,Medium populated,2
+24,95,"South Park, Los Angeles",49421,-118.2697608,33.9959381,Medium populated,2
+25,49,"Historic South Central, Los Angeles",48949,-118.2780639,34.0198321,Medium populated,2
+26,97,"Studio City, Los Angeles",48158,-118.3961877,34.1483989,Medium populated,2
+27,27,"Downtown, Los Angeles",47878,-118.2476732,34.0428494,Medium populated,2
+28,54,"Koreatown, Los Angeles",46860,-118.305447,34.0617936,Medium populated,2
+29,11,"Brentwood, Los Angeles",46104,-118.4740699,34.0521403,Medium populated,2
+30,29,"East Hollywood, Los Angeles",44537,-118.2966254,34.0904277,Medium populated,2
+31,48,"Highland Park, Los Angeles",43570,-118.1969828,34.1099469,Medium populated,2
+32,44,"Harbor Gateway, Los Angeles",42425,-118.2992198,33.8542249,Medium populated,2
+33,118,"Watts, Los Angeles",41520,-118.2428984,33.9405897,Least populated,3
+34,63,"Mar Vista, Los Angeles",41421,-118.4391641,34.0037605,Least populated,3
+35,108,"Valley Glen, Los Angeles",40812,-118.4138666,34.1826379,Least populated,3
+36,93,"Silver Lake, Los Angeles",40345,-118.269373,34.0896518,Least populated,3
+37,31,"El Sereno, Los Angeles",39157,-118.1778495,34.0811213,Least populated,3
+38,2,"Arleta, Los Angeles",38020,-118.4189077,34.2446295,Least populated,3
+39,61,"Los Feliz/Griffith Park, Los Angeles",36940,-118.2773781,34.1135359,Least populated,3
+40,28,"Eagle Rock, Los Angeles",36380,-118.2140958,34.1390325,Least populated,3
+41,102,"Tarzana, Los Angeles",35207,-118.536567,34.1689295,Least populated,3
+42,16,"Central-Alameda, Los Angeles",34155,-118.2477844,34.004015,Least populated,3
+43,130,"Winnetka, CA",33496,-118.5711037,34.2013207,Least populated,3
+44,79,"Palms, Los Angeles",32550,-118.4116152,34.0247328,Least populated,3
+45,111,"Venice, Los Angeles",32045,-118.44685070595054,34.070877749999994,Least populated,3
+46,60,"Lincoln Heights, Los Angeles",30994,-118.21959,34.08586,Least populated,3
+47,56,"Lake Balboa, Los Angeles",29717,-118.5010456,34.1938237,Least populated,3
+48,53,"Jefferson Park, Los Angeles",29715,-118.3224597,34.0296173,Least populated,3
+49,26,"Del Rey, Los Angeles",29210,-118.4243437,33.9896527,Least populated,3
+50,119,"West Adams, Los Angeles",28836,-118.3524833,34.0294356,Least populated,3
+51,114,"Vermont Vista, Los Angeles",28017,-118.2858138,33.9419475,Least populated,3
+52,112,"Vermont Knolls, Los Angeles",26810,-118.29167,33.9668188,Least populated,3
+53,38,"Glassell Park, Los Angeles",26809,-118.2289627,34.1161201,Least populated,3
+54,30,"Echo Park, Los Angeles",26719,-118.2567824,34.0779819,Least populated,3
+55,107,"University Park, Los Angeles",26471,-118.2839209,34.0274421,Least populated,3
+56,43,"Harbor City, Los Angeles",25905,-118.3012604,33.7911012,Least populated,3
+57,65,"Mid-City, Los Angeles",25371,-118.3603703,34.0415271,Least populated,3
+58,105,"Tujunga, Los Angeles",25323,-118.2884105,34.252225,Least populated,3
+59,120,"West Hills, Los Angeles",25122,-118.645476,34.2032325,Least populated,3
+60,5,"Baldwin Hills, Los Angeles",24506,-118.3603104,34.0146113,Least populated,3
+61,85,"Porter Ranch, Los Angeles",23844,-118.5612714,34.2818164,Least populated,3
+62,77,"Pacific Palisades, Los Angeles",23216,-118.5264706,34.0480643,Least populated,3
+63,115,"Vermont-Slauson, Los Angeles",22890,-118.2915417,33.9836914,Least populated,3
+64,90,"Sawtelle, Los Angeles",22780,-118.4507991,34.039893,Least populated,3
+65,20,"Chinatown & Historic L.A., Los Angeles",22673,-118.2469754,34.0518476,Least populated,3
+66,82,"Pico Union, Los Angeles",22494,-118.2878942,34.0465669,Least populated,3
+67,52,"Hyde Park, Los Angeles",21503,-118.330861,33.9854024,Least populated,3
+68,41,"Green Meadows, Los Angeles",21503,-118.2629968,33.9409877,Least populated,3
+69,57,"Lakeview Terrace, Los Angeles",20877,-117.8986251,34.1396617,Least populated,3
+70,68,"Miracle Mile, Los Angeles",20131,-118.3515073,34.0624027,Least populated,3
+71,69,"Mission Hills, Los Angeles",18814,-118.4670285,34.2572249,Least populated,3
+72,3,"Arlington Heights, Los Angeles",18511,-118.3213735,34.0434937,Least populated,3
+73,96,"South Robertson, Los Angeles",18484,-118.3915543,34.0292025,Least populated,3
+74,109,"Valley Village, Los Angeles",17734,-118.3965758,34.1637147,Least populated,3
+75,83,"Playa del Rey, Los Angeles",17496,-118.4388067,33.9541453,Least populated,3
+76,99,"Sunland, Los Angeles",16160,-118.3023,34.2669466,Least populated,3
+77,50,"Historic West Adams, Los Angeles",15655,-118.2903526,34.0302903,Least populated,3
+78,66,"Mid-City West, Los Angeles",15330,-118.3714180980827,34.0448162,Least populated,3
+79,25,"Cypress Park, Los Angeles",15298,-118.2245179,34.0922322,Least populated,3
+80,84,"Playa Vista, Los Angeles",15108,-118.4181654,33.9760102,Least populated,3
+81,47,"Harvard Park, Los Angeles",14067,-118.3046228,33.9839471,Least populated,3
+82,64,"Melrose, Los Angeles",13603,-118.3284945047315,34.08323265,Least populated,3
+83,121,"West LA, Los Angeles",13526,-118.065021,33.8302525,Least populated,3
+84,59,"Leimert Park, Los Angeles",11839,-118.3314469,34.008441,Least populated,3
+85,36,"Figueroa Park Square, Los Angeles",11678,-118.2829239,34.0137561,Least populated,3
+86,42,"Hancock Park, Los Angeles",11033,-118.335055,34.0736782,Least populated,3
+87,4,"Atwater Village, Los Angeles",10995,-118.2623924,34.1186975,Least populated,3
+88,39,"Gramercy Park, Los Angeles",10850,-118.3093275,33.9511938,Least populated,3
+89,72,"Mt. Washington, Los Angeles",10490,-118.2211069,34.0988396,Least populated,3
+90,67,"Mid-Wilshire, Los Angeles",10456,-118.3458032,34.0568616,Least populated,3
+91,35,"Fairfax, Los Angeles",10452,-118.34404041381109,34.072995500000005,Least populated,3
+92,62,"Manchester Square, Los Angeles",9965,-118.3133775,33.966374,Least populated,3
+93,23,"Crenshaw, Los Angeles",9737,-118.3265295,33.9252122,Least populated,3
+94,86,"Rancho Park, Los Angeles",8952,-118.4262057,34.0341731,Least populated,3
+95,19,"Cheviot Hills, Los Angeles",8692,-118.4098875,34.0405878,Least populated,3
+96,76,"Olympic Park, Los Angeles",7475,-118.26798335769011,34.03414135,Least populated,3
+97,122,"Western Wilton, Los Angeles",7392,-118.309125,34.0668151,Least populated,3
+98,88,"Reynier Village, Los Angeles",7305,-118.3861663,34.0361621,Least populated,3
+99,124,"Westside Village, Los Angeles",7303,-118.4211471,34.0274472,Least populated,3
+100,22,"Country Club Park, Los Angeles",7191,-118.3211871,34.050289,Least populated,3
+101,7,"Beverly Crest, Los Angeles",7051,-118.4322607,34.1167701,Least populated,3
+102,6,"Bel Air, Los Angeles",7037,-118.4479802,34.0827278,Least populated,3
+103,33,"Elysian Valley, Los Angeles",7032,-118.2420326,34.0959128,Least populated,3
+104,24,"Crestview, Los Angeles",6224,-118.4250119,34.0621851,Least populated,3
+105,1,"Angeles Mesa, Los Angeles",6169,-118.3195196,33.9914024,Least populated,3
+106,46,"Harvard Heights, Los Angeles",6028,-118.3054828,34.0471105,Least populated,3
+107,116,"Victor Heights, Los Angeles",5341,-118.2506371,34.065382,Least populated,3
+108,106,"University Hills, Los Angeles",5194,-118.17335242769217,34.068035249999994,Least populated,3
+109,100,"Sycamore Grove, Los Angeles",4857,-118.2032678645793,34.09963865,Least populated,3
+110,70,"Montecito Heights, Los Angeles",4368,-118.1942792,34.0895404,Least populated,3
+111,71,"Monterey Hills, Los Angeles",4247,-118.16490705917973,34.103799800000004,Least populated,3
+112,117,"View Heights, Los Angeles",4229,-118.2629929,34.1045506,Least populated,3
+113,8,"Beverly Glen, Los Angeles",4185,-118.4456361,34.1077855,Least populated,3
+114,21,"Country Club Heights, Los Angeles",4120,-118.3117555,34.0494837,Least populated,3
+115,58,"Larchmont, Los Angeles",4008,-118.3178702,34.0798375,Least populated,3
+116,12,"Cahuenga Pass, Los Angeles",3767,-118.34305,34.1242768,Least populated,3
+117,9,"Beverlywood, Los Angeles",3741,-118.39492,34.0459334,Least populated,3
+118,91,"Shadow Hills, Los Angeles",3726,-118.3517463,34.2619469,Least populated,3
+119,15,"Castle Heights, Los Angeles",3218,-118.3964001,34.0338481,Least populated,3
+120,94,"South Carthay, Los Angeles",3110,-118.3734109,34.0561214,Least populated,3
+121,45,"Harmon, Los Angeles",2995,-118.2282655,34.1958053,Least populated,3
+122,81,"Pico Park, Los Angeles",2964,-118.07357992925006,34.00747315,Least populated,3
+123,17,"Century City, Los Angeles",2560,-118.4146078,34.0573589,Least populated,3
+124,128,"Wilshire Park, Los Angeles",2281,-118.35472134789536,34.0608061,Least populated,3
+125,129,"Wilshire Vista, Los Angeles",2275,-118.3520762,34.052433,Least populated,3
+126,14,"Carthay, Los Angeles",1575,-118.3672997,34.0611213,Least populated,3
+127,103,"Terminal Island, Los Angeles",1237,-118.2628924121718,33.74568065,Least populated,3
+128,32,"Elysian Park, Los Angeles",119,-118.23441344019174,34.08289815,Least populated,3
+129,104,"Topanga State Park, Los Angeles",77,-118.5595410743391,34.0864019,Least populated,3
