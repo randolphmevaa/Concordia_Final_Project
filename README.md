@@ -27,8 +27,8 @@ Here are the steps that I followed:
 image
 **T**o visualize the different price range, I put every locations on the map of los angeles and categorized them according to there price range.
 Has we are also looking for places with a good balance between least crimes rates and the most populated states, I add several layers to the finale map so we can notice zone by crime rates and where are our land located.
-image
-image
+![alt text](image1p5.png)
+![alt text](image2.png)
   
 
 <!-- Conclusion -->
