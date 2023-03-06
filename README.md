@@ -19,8 +19,8 @@ Here are the steps that I followed:
 1- Data Collection
 2- Data Cleaning
 
-image1.png  
-
+![alt text](http://url/to/image1.png)
+  
 ## Map Visualization
 
 **F**irst I drop "pins" on the map in order to see the different land location:
