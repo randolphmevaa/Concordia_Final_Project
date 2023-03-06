@@ -19,7 +19,7 @@ Here are the steps that I followed:
 1- Data Collection
 2- Data Cleaning
 
-![alt text](http://url/to/image1.png)
+![alt text](image1.png)
   
 ## Map Visualization
 
