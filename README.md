@@ -17,10 +17,9 @@ Here are the steps that I followed:
 
 **F**or my data collection, I used several URLs and scrapped the data.
 1- Data Collection
-image
 2- Data Cleaning
-image
-  
+
+image1.png  
 
 ## Map Visualization
 
